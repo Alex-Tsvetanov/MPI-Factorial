@@ -3,6 +3,7 @@
 #include "./big_int.hpp" // BigUInt
 #include <thread> // std::thread
 #include <future> // std::mutex
+#include <shared_mutex> // std::shared_mutex
 
 /**
  * @brief Used to do multiplication of the threads before they are all completed.
@@ -28,11 +29,7 @@ private:
     /**
      * @brief External mutex to be unlocked after processing.
     */
-    std::shared_ptr<_AccumulatedResult> accumulating;
-    
-    _AccumulatedResult(std::shared_ptr<_AccumulatedResult> _accumulating, size_t _processes) : accumulating(_accumulating), units(_processes) {
-        result = 1;
-    }
+    std::shared_ptr<std::mutex> accumulating;
     
     /**
      * @brief Upon new multiplier incoming, multiplying the result with it.
@@ -41,12 +38,16 @@ private:
         processing.lock();
         result *= thread_result;
         units --;
-        if (units == 0) accumulating.unlock();
+        if (units == 0) accumulating->unlock();
         processing.unlock();
     } 
 
 public:
     friend BigUInt factorial(unsigned int, unsigned int);
+    
+    _AccumulatedResult(std::shared_ptr<std::mutex> _accumulating, size_t _processes) : accumulating(_accumulating), units(_processes) {
+        result = 1;
+    }
 };
 
 /**
@@ -79,8 +80,8 @@ BigUInt factorial(unsigned int N, unsigned int processes) {
         return result;
     }
     else {        
-        std::mutex accumulating;
-        accumulating.lock(); // locking the processing of the factorial
+        std::shared_ptr<std::mutex> accumulating = std::make_shared<std::mutex>();
+        accumulating->lock(); // locking the processing of the factorial
 
         std::shared_ptr<_AccumulatedResult> accumulated_result = std::make_shared<_AccumulatedResult>(accumulating, processes);
 
@@ -90,7 +91,7 @@ BigUInt factorial(unsigned int N, unsigned int processes) {
             }).detach(); // parallel thread started with the sub-multiplication
         }
 
-        accumulating.lock(); // waiting for all the processing to be over
+        accumulating->lock(); // waiting for all the processing to be over
 
         return accumulated_result->result;
     }
