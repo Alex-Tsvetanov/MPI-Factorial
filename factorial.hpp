@@ -28,9 +28,9 @@ private:
     /**
      * @brief External mutex to be unlocked after processing.
     */
-    std::mutex& accumulating;
+    std::shared_ptr<_AccumulatedResult> accumulating;
     
-    _AccumulatedResult(std::mutex& _accumulating, size_t _processes) : accumulating(_accumulating), units(_processes) {
+    _AccumulatedResult(std::shared_ptr<_AccumulatedResult> _accumulating, size_t _processes) : accumulating(_accumulating), units(_processes) {
         result = 1;
     }
     
