@@ -1,0 +1,60 @@
+name: Build & Test & Compare & Deploy
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+    types: [opened]
+  pull_request_target:
+    branches:
+      - "*"
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest]
+        optimization: [-O, -O1, -O2, -O3, -Ofast, -Og, -Os]
+        processes: [1, 2, 3, 4, 5, 6, 7, 8]
+        include:
+          - cxx: g++
+            os: windows-latest
+          - cxx: g++-11
+            os: ubuntu-latest
+    name: ${{ matrix.os }}${{ matrix.optimization }}
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
+      - name: Install dependencies on windows
+        if: startsWith(matrix.os, 'windows')
+        run: |
+          choco install mingw --version 11.2.0.07112021 --force
+          make --version
+          gcc --version
+      - name: Install dependencies on ubuntu
+        if: startsWith(matrix.os, 'ubuntu')
+        run: |
+          sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+          sudo apt-get update
+          sudo apt-get install -y gcc-11 g++-11 make
+          make --version
+          gcc-11 --version
+          g++-11 --version
+          mkdir -p ./bin
+      - name: Build
+        shell: bash
+        run: |
+          ${{ matrix.cxx }} main.cpp -O main.exe ${{ matrix.optimization }} -std=c++20
+      - name: Run tests
+        shell: bash
+        run: |
+          for i in `seq 1 100` ; do 
+            time ./main.exe -np ${{ matrix.processes }} -n $i >> report-${{ matrix.processes }}-${{ matrix.optimization }}.txt;
+          done
+      - name: Upload Report 🚀
+        uses: actions/upload-artifact@v1
+        with:
+          name: report${{ matrix.optimization }}
+          path: report-${{ matrix.processes }}-${{ matrix.optimization }}.txt
