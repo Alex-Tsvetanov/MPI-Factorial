@@ -82,17 +82,17 @@ BigUInt factorial(unsigned int N, unsigned int processes) {
         std::mutex accumulating;
         accumulating.lock(); // locking the processing of the factorial
 
-        _AccumulatedResult accumulated_result(accumulating, processes);
+        std::shared_ptr<_AccumulatedResult> accumulated_result = std::make_shared<_AccumulatedResult>(accumulating, processes);
 
         for (unsigned int i = 1 ; i <= processes ; i ++) {
-            std::thread([&accumulated_result, i, &processes, &N] {
-                accumulated_result.add(multiply(i, processes, N));
+            std::thread([accumulated_result, i, &processes, &N] {
+                accumulated_result->add(multiply(i, processes, N));
             }).detach(); // parallel thread started with the sub-multiplication
         }
 
         accumulating.lock(); // waiting for all the processing to be over
 
-        return accumulated_result.result;
+        return accumulated_result->result;
     }
 }
 #endif

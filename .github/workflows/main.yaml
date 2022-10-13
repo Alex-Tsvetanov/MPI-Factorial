@@ -51,10 +51,10 @@ jobs:
         shell: bash
         run: |
           for i in `seq 1 100` ; do 
-            time ./main.exe -np ${{ matrix.processes }} -n $i >> report-${{ matrix.processes }}-${{ matrix.optimization }}.txt;
+            time ./main.exe -np ${{ matrix.processes }} -n $i >> report-${{ matrix.os }}-${{ matrix.processes }}${{ matrix.optimization }}.txt;
           done
       - name: Upload Report 🚀
         uses: actions/upload-artifact@v1
         with:
-          name: report${{ matrix.optimization }}
-          path: report-${{ matrix.processes }}-${{ matrix.optimization }}.txt
+          name: report
+          path: report-${{ matrix.os }}-${{ matrix.processes }}${{ matrix.optimization }}.txt

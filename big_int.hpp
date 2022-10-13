@@ -52,6 +52,11 @@ public:
     BigUInt();
     
     /**
+     * @brief Default destructor
+     */
+    ~BigUInt() = default;
+    
+    /**
      * @brief Explicit constructor Big Unsigned Integer.  
      * @details Sets the value to the given unsigned long long.
     */
