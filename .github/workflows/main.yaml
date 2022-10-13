@@ -46,7 +46,7 @@ jobs:
       - name: Build
         shell: bash
         run: |
-          ${{ matrix.cxx }} main.cpp -o main.exe ${{ matrix.optimization }} -std=c++20
+          ${{ matrix.cxx }} main.cpp -o main.exe ${{ matrix.optimization }} -std=c++20 -pthread -lpthread
       - name: Run tests
         shell: bash
         run: |
