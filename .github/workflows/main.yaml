@@ -1,12 +1,7 @@
-name: Build & Test & Compare & Deploy
+name: Build & Test
 on:
   workflow_dispatch:
   push:
-  pull_request:
-    types: [opened]
-  pull_request_target:
-    branches:
-      - "*"
 
 jobs:
   build:
@@ -14,13 +9,12 @@ jobs:
       fail-fast: false
       matrix:
         os: [windows-latest, ubuntu-latest]
-        optimization: [-O, -O1, -O2, -O3, -Ofast, -Og, -Os]
         include:
           - cxx: g++
             os: windows-latest
           - cxx: g++-11
             os: ubuntu-latest
-    name: ${{ matrix.os }}${{ matrix.optimization }}
+    name: ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v3
@@ -41,18 +35,16 @@ jobs:
           make --version
           gcc-11 --version
           g++-11 --version
-          mkdir -p ./bin
-      - name: Build
-        shell: bash
-        run: |
-          ${{ matrix.cxx }} main.cpp -o main.exe ${{ matrix.optimization }} -std=c++20 -pthread -lpthread
-      - name: Run tests
+      - name: Build & Test
         shell: bash
         run: |
           mkdir report
-          for processes in `seq 1 8`; do
-            for i in `seq 100 -1 1` ; do 
-              { time ./main.exe -np $processes -n $i >> report/output-${{ matrix.os }}-$processes${{ matrix.optimization }}.txt; } 2>> report/report-${{ matrix.os }}-$processes${{ matrix.optimization }}.txt;
+          for optimization in -O -O1 -O2 -O3 -Ofast -Og -Os; do
+            for processes in `seq 1 8`; do
+              for i in `seq 100 -1 1` ; do 
+                ${{ matrix.cxx }} main.cpp -o main.exe $optimization -std=c++20 -pthread -lpthread
+                { time ./main.exe -np $processes -n $i >> report/output-${{ matrix.os }}-$processes$optimization.txt; } 2>> report/report-${{ matrix.os }}-$processes$optimization.txt;
+              done
             done
           done
       - name: Upload Report 🚀
