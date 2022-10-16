@@ -1,6 +1,6 @@
 #include <iostream> // std::cout
 #include <cstring> // strcmp
-#include "./factorial.hpp"
+#include "./lib/factorial.hpp"
 
 /**
  * @brief main function of Factorial MPI
@@ -28,7 +28,7 @@ int main(int args, char** argv) {
         }
     }
 
-    std::cout << factorial(factorial_of, number_of_processors) << std::endl;  
+    std::cout << factorial(factorial_of, number_of_processors).to_string() << std::endl;  
 
     return 0; // successful execution
 }
