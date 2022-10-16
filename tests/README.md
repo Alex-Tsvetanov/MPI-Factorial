@@ -1,3 +1,4 @@
+```asciidoc
 ===============================  Testing  ===============================
 Factorial
   answers with correct numbers 
@@ -12633,4 +12634,4 @@ x 599) Factorial check speed difference based on cores used  should 99! using 4 
 x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
   100! using 4 cores | Expected 0 but got 415000.0000000
   in ./performance_check.hpp:27
-
+```

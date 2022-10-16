@@ -84,9 +84,7 @@ BigUInt factorial(const unsigned int N, unsigned int processes) {
         accumulating->lock(); // locking the processing of the factorial
 
         std::shared_ptr<_AccumulatedResult> accumulated_result = std::make_shared<_AccumulatedResult>(accumulating, processes);
-
-        //processes = (processes < N) ? processes : N;
-
+        
         for (unsigned int i = 1 ; i <= processes ; i ++) {
             std::thread([accumulated_result, i, &processes, &N] {
                 accumulated_result->add(multiply(i, processes, N));
