@@ -304,306 +304,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -905,1203 +905,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 36000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 36000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 37000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 39000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 37000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 38000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 58000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 297000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 243000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 270000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 246000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 200000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 196000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 190000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 232000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 190000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 270000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 242000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 215000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 253000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 228000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 184000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 194000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 220000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 195000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 237000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 279000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 340000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 428000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 250000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 281000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 251000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 238000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 260000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 299000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 281000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 244000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 220000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 206000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 215000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 249000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 242000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 256000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 247000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 238000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 254000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 256000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 275000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 259000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 271000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 328000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 322000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 265000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 283000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 293000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 266000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 264000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 399000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 277000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 306000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 284000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 287000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 315000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 573000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 572000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 448000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 613000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 452000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 392000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 361000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 402000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 455000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 521000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 324000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 376000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 492000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 409000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 288000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 467000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 355000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 351000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 335000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 352000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 279000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 698000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 355000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 499000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 463000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 376000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 414000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 349000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 466000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 375000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 354000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 376000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 423000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 351000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 480000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 384000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 394000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 445000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 399000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 564000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 514000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 357000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 405000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 781000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 459000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 583000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 426000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 487000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 457000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 365000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 391000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 357000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 383000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 335000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 352000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 329000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 458000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 341000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 403000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 407000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 352000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 321000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 357000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 290000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 514000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 452000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 453000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 417000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 403000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 471000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 1336000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 835000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 652000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 577000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 497000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 487000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 487000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 365000.0000000
   in ./performance_check.hpp:27
 
@@ -2410,306 +2410,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -3011,1203 +3011,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 58000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 36000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 461000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 413000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 330000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 489000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 284000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 251000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 237000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 217000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 180000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 199000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 252000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 230000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 206000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 230000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 195000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 185000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 194000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 189000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 189000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 181000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 241000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 251000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 287000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 192000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 189000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 247000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 244000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 267000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 426000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 271000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 255000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 196000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 230000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 220000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 243000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 222000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 198000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 249000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 264000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 260000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 200000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 244000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 271000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 243000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 254000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 308000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 374000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 499000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 544000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 520000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 412000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 372000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 754000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 490000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 477000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 500000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 390000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 360000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 451000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 579000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 418000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 418000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 415000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 384000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 386000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 490000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 408000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 370000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 405000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 320000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 455000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 272000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 345000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 449000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 378000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 419000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 735000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 550000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 595000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 375000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 277000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 377000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 331000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 326000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 365000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 336000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 390000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 341000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 362000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 351000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 284000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 327000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 341000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 350000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 327000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 369000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 441000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 354000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 314000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 288000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 363000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 321000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 339000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 347000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 355000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 314000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 1264000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 429000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 471000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 381000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 442000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 396000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 414000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 487000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 404000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 399000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 387000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 506000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 476000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 387000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 406000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 362000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 437000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 445000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 535000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 396000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 428000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 434000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 451000.0000000
   in ./performance_check.hpp:27
 
@@ -4516,306 +4516,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -5117,1203 +5117,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 39000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 40000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 36000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 617000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 283000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 290000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 220000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 215000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 232000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 239000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 184000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 198000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 222000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 217000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 174000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 217000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 420000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 253000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 281000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 198000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 239000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 243000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 275000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 249000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 276000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 238000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 248000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 246000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 215000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 220000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 217000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 337000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 322000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 276000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 244000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 257000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 237000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 232000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 238000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 244000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 405000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 427000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 370000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 440000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 437000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 415000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 446000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 457000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 501000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 551000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 417000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 473000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 398000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 505000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 488000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 711000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 505000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 552000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 562000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 399000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 454000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 403000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 418000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 381000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 506000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 466000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 296000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 400000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 340000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 357000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 375000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 330000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 361000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 383000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 393000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 398000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 377000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 586000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 359000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 411000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 378000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 402000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 341000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 390000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 400000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 355000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 323000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 394000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 326000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 360000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 404000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 363000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 381000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 406000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 333000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 354000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 388000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 436000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 343000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 349000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 320000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 364000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 753000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 411000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 511000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 449000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 369000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 540000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 395000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 439000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 509000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 687000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 504000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 410000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 392000.0000000
   in ./performance_check.hpp:27
 
@@ -6622,306 +6622,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -7223,1203 +7223,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 39000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 38000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 34000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 35000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 305000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 328000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 286000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 265000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 276000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 273000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 274000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 242000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 313000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 278000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 242000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 293000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 296000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 301000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 308000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 301000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 261000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 267000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 299000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 299000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 290000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 287000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 259000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 276000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 318000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 256000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 263000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 248000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 275000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 253000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 278000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 250000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 288000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 307000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 263000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 274000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 260000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 239000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 256000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 283000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 284000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 327000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 603000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 319000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 284000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 325000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 303000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 294000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 255000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 297000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 258000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 340000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 259000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 258000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 266000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 277000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 302000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 285000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 255000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 269000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 287000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 277000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 292000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 294000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 354000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 300000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 316000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 331000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 327000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 325000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 308000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 293000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 273000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 257000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 326000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 313000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 1576000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 799000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 509000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 573000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 525000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 486000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 487000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 596000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 551000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 531000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 513000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 470000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 417000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 525000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 517000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 558000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 489000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 543000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 670000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 556000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 550000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 959000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 569000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 409000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 429000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 474000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 529000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 421000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 483000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 511000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 406000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 509000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 411000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 418000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 550000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 411000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 398000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 473000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 408000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 474000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 438000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 365000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 393000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 539000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 578000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 377000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 559000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 492000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 362000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 432000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 523000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 375000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 545000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 418000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 520000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 351000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 498000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 505000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 491000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 428000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 479000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 370000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 474000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 521000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 403000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 453000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 556000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 360000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 386000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 500000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 400000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 519000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 417000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 522000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 407000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 443000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 458000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 406000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 403000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 532000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 417000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 439000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 408000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 431000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
@@ -8728,306 +8728,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -9329,1203 +9329,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 5000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 60000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 42000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 42000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 43000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 43000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 309000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 313000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 387000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 254000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 272000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 303000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 258000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 247000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 246000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 222000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 347000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 242000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 186000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 183000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 178000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 177000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 188000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 176000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 181000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 199000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 182000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 200000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 188000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 183000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 188000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 200000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 188000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 184000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 199000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 225000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 196000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 206000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 196000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 231000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 248000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 190000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 222000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 326000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 246000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 212000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 247000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 223000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 213000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 218000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 222000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 195000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 209000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 217000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 199000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 200000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 241000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 224000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 305000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 475000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 385000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 450000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 435000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 369000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 391000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 374000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 330000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 402000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 587000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 385000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 630000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 408000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 391000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 426000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 402000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 350000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 331000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 266000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 436000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 316000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 311000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 332000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 292000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 332000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 332000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 360000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 374000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 336000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 321000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 256000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 428000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 289000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 273000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 534000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 382000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 364000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 336000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 383000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 324000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 307000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 336000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 316000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 392000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 400000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 371000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 268000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 265000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 300000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 440000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 366000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 369000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 349000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 312000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 330000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 391000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 342000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 316000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 312000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 379000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 326000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 332000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 363000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 312000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 509000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 361000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 460000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 318000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 349000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 318000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 331000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 273000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 384000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 396000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 376000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 352000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
@@ -10834,306 +10834,306 @@ Factorial
     + 300) should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores
 Factorial
   check speed difference based on cores used 
-    x 301) should 1! using 1 cores to be executed in 1s
-    x 302) should 2! using 1 cores to be executed in 1s
-    x 303) should 3! using 1 cores to be executed in 1s
-    x 304) should 4! using 1 cores to be executed in 1s
-    x 305) should 5! using 1 cores to be executed in 1s
-    x 306) should 6! using 1 cores to be executed in 1s
-    x 307) should 7! using 1 cores to be executed in 1s
-    x 308) should 8! using 1 cores to be executed in 1s
-    x 309) should 9! using 1 cores to be executed in 1s
-    x 310) should 10! using 1 cores to be executed in 1s
-    x 311) should 11! using 1 cores to be executed in 1s
-    x 312) should 12! using 1 cores to be executed in 1s
-    x 313) should 13! using 1 cores to be executed in 1s
-    x 314) should 14! using 1 cores to be executed in 1s
-    x 315) should 15! using 1 cores to be executed in 1s
-    x 316) should 16! using 1 cores to be executed in 1s
-    x 317) should 17! using 1 cores to be executed in 1s
-    x 318) should 18! using 1 cores to be executed in 1s
-    x 319) should 19! using 1 cores to be executed in 1s
-    x 320) should 20! using 1 cores to be executed in 1s
-    x 321) should 21! using 1 cores to be executed in 1s
-    x 322) should 22! using 1 cores to be executed in 1s
-    x 323) should 23! using 1 cores to be executed in 1s
-    x 324) should 24! using 1 cores to be executed in 1s
-    x 325) should 25! using 1 cores to be executed in 1s
-    x 326) should 26! using 1 cores to be executed in 1s
-    x 327) should 27! using 1 cores to be executed in 1s
-    x 328) should 28! using 1 cores to be executed in 1s
-    x 329) should 29! using 1 cores to be executed in 1s
-    x 330) should 30! using 1 cores to be executed in 1s
-    x 331) should 31! using 1 cores to be executed in 1s
-    x 332) should 32! using 1 cores to be executed in 1s
-    x 333) should 33! using 1 cores to be executed in 1s
-    x 334) should 34! using 1 cores to be executed in 1s
-    x 335) should 35! using 1 cores to be executed in 1s
-    x 336) should 36! using 1 cores to be executed in 1s
-    x 337) should 37! using 1 cores to be executed in 1s
-    x 338) should 38! using 1 cores to be executed in 1s
-    x 339) should 39! using 1 cores to be executed in 1s
-    x 340) should 40! using 1 cores to be executed in 1s
-    x 341) should 41! using 1 cores to be executed in 1s
-    x 342) should 42! using 1 cores to be executed in 1s
-    x 343) should 43! using 1 cores to be executed in 1s
-    x 344) should 44! using 1 cores to be executed in 1s
-    x 345) should 45! using 1 cores to be executed in 1s
-    x 346) should 46! using 1 cores to be executed in 1s
-    x 347) should 47! using 1 cores to be executed in 1s
-    x 348) should 48! using 1 cores to be executed in 1s
-    x 349) should 49! using 1 cores to be executed in 1s
-    x 350) should 50! using 1 cores to be executed in 1s
-    x 351) should 51! using 1 cores to be executed in 1s
-    x 352) should 52! using 1 cores to be executed in 1s
-    x 353) should 53! using 1 cores to be executed in 1s
-    x 354) should 54! using 1 cores to be executed in 1s
-    x 355) should 55! using 1 cores to be executed in 1s
-    x 356) should 56! using 1 cores to be executed in 1s
-    x 357) should 57! using 1 cores to be executed in 1s
-    x 358) should 58! using 1 cores to be executed in 1s
-    x 359) should 59! using 1 cores to be executed in 1s
-    x 360) should 60! using 1 cores to be executed in 1s
-    x 361) should 61! using 1 cores to be executed in 1s
-    x 362) should 62! using 1 cores to be executed in 1s
-    x 363) should 63! using 1 cores to be executed in 1s
-    x 364) should 64! using 1 cores to be executed in 1s
-    x 365) should 65! using 1 cores to be executed in 1s
-    x 366) should 66! using 1 cores to be executed in 1s
-    x 367) should 67! using 1 cores to be executed in 1s
-    x 368) should 68! using 1 cores to be executed in 1s
-    x 369) should 69! using 1 cores to be executed in 1s
-    x 370) should 70! using 1 cores to be executed in 1s
-    x 371) should 71! using 1 cores to be executed in 1s
-    x 372) should 72! using 1 cores to be executed in 1s
-    x 373) should 73! using 1 cores to be executed in 1s
-    x 374) should 74! using 1 cores to be executed in 1s
-    x 375) should 75! using 1 cores to be executed in 1s
-    x 376) should 76! using 1 cores to be executed in 1s
-    x 377) should 77! using 1 cores to be executed in 1s
-    x 378) should 78! using 1 cores to be executed in 1s
-    x 379) should 79! using 1 cores to be executed in 1s
-    x 380) should 80! using 1 cores to be executed in 1s
-    x 381) should 81! using 1 cores to be executed in 1s
-    x 382) should 82! using 1 cores to be executed in 1s
-    x 383) should 83! using 1 cores to be executed in 1s
-    x 384) should 84! using 1 cores to be executed in 1s
-    x 385) should 85! using 1 cores to be executed in 1s
-    x 386) should 86! using 1 cores to be executed in 1s
-    x 387) should 87! using 1 cores to be executed in 1s
-    x 388) should 88! using 1 cores to be executed in 1s
-    x 389) should 89! using 1 cores to be executed in 1s
-    x 390) should 90! using 1 cores to be executed in 1s
-    x 391) should 91! using 1 cores to be executed in 1s
-    x 392) should 92! using 1 cores to be executed in 1s
-    x 393) should 93! using 1 cores to be executed in 1s
-    x 394) should 94! using 1 cores to be executed in 1s
-    x 395) should 95! using 1 cores to be executed in 1s
-    x 396) should 96! using 1 cores to be executed in 1s
-    x 397) should 97! using 1 cores to be executed in 1s
-    x 398) should 98! using 1 cores to be executed in 1s
-    x 399) should 99! using 1 cores to be executed in 1s
-    x 400) should 100! using 1 cores to be executed in 1s
-    x 401) should 1! using 2 cores to be executed in 1s
-    x 402) should 2! using 2 cores to be executed in 1s
-    x 403) should 3! using 2 cores to be executed in 1s
-    x 404) should 4! using 2 cores to be executed in 1s
-    x 405) should 5! using 2 cores to be executed in 1s
-    x 406) should 6! using 2 cores to be executed in 1s
-    x 407) should 7! using 2 cores to be executed in 1s
-    x 408) should 8! using 2 cores to be executed in 1s
-    x 409) should 9! using 2 cores to be executed in 1s
-    x 410) should 10! using 2 cores to be executed in 1s
-    x 411) should 11! using 2 cores to be executed in 1s
-    x 412) should 12! using 2 cores to be executed in 1s
-    x 413) should 13! using 2 cores to be executed in 1s
-    x 414) should 14! using 2 cores to be executed in 1s
-    x 415) should 15! using 2 cores to be executed in 1s
-    x 416) should 16! using 2 cores to be executed in 1s
-    x 417) should 17! using 2 cores to be executed in 1s
-    x 418) should 18! using 2 cores to be executed in 1s
-    x 419) should 19! using 2 cores to be executed in 1s
-    x 420) should 20! using 2 cores to be executed in 1s
-    x 421) should 21! using 2 cores to be executed in 1s
-    x 422) should 22! using 2 cores to be executed in 1s
-    x 423) should 23! using 2 cores to be executed in 1s
-    x 424) should 24! using 2 cores to be executed in 1s
-    x 425) should 25! using 2 cores to be executed in 1s
-    x 426) should 26! using 2 cores to be executed in 1s
-    x 427) should 27! using 2 cores to be executed in 1s
-    x 428) should 28! using 2 cores to be executed in 1s
-    x 429) should 29! using 2 cores to be executed in 1s
-    x 430) should 30! using 2 cores to be executed in 1s
-    x 431) should 31! using 2 cores to be executed in 1s
-    x 432) should 32! using 2 cores to be executed in 1s
-    x 433) should 33! using 2 cores to be executed in 1s
-    x 434) should 34! using 2 cores to be executed in 1s
-    x 435) should 35! using 2 cores to be executed in 1s
-    x 436) should 36! using 2 cores to be executed in 1s
-    x 437) should 37! using 2 cores to be executed in 1s
-    x 438) should 38! using 2 cores to be executed in 1s
-    x 439) should 39! using 2 cores to be executed in 1s
-    x 440) should 40! using 2 cores to be executed in 1s
-    x 441) should 41! using 2 cores to be executed in 1s
-    x 442) should 42! using 2 cores to be executed in 1s
-    x 443) should 43! using 2 cores to be executed in 1s
-    x 444) should 44! using 2 cores to be executed in 1s
-    x 445) should 45! using 2 cores to be executed in 1s
-    x 446) should 46! using 2 cores to be executed in 1s
-    x 447) should 47! using 2 cores to be executed in 1s
-    x 448) should 48! using 2 cores to be executed in 1s
-    x 449) should 49! using 2 cores to be executed in 1s
-    x 450) should 50! using 2 cores to be executed in 1s
-    x 451) should 51! using 2 cores to be executed in 1s
-    x 452) should 52! using 2 cores to be executed in 1s
-    x 453) should 53! using 2 cores to be executed in 1s
-    x 454) should 54! using 2 cores to be executed in 1s
-    x 455) should 55! using 2 cores to be executed in 1s
-    x 456) should 56! using 2 cores to be executed in 1s
-    x 457) should 57! using 2 cores to be executed in 1s
-    x 458) should 58! using 2 cores to be executed in 1s
-    x 459) should 59! using 2 cores to be executed in 1s
-    x 460) should 60! using 2 cores to be executed in 1s
-    x 461) should 61! using 2 cores to be executed in 1s
-    x 462) should 62! using 2 cores to be executed in 1s
-    x 463) should 63! using 2 cores to be executed in 1s
-    x 464) should 64! using 2 cores to be executed in 1s
-    x 465) should 65! using 2 cores to be executed in 1s
-    x 466) should 66! using 2 cores to be executed in 1s
-    x 467) should 67! using 2 cores to be executed in 1s
-    x 468) should 68! using 2 cores to be executed in 1s
-    x 469) should 69! using 2 cores to be executed in 1s
-    x 470) should 70! using 2 cores to be executed in 1s
-    x 471) should 71! using 2 cores to be executed in 1s
-    x 472) should 72! using 2 cores to be executed in 1s
-    x 473) should 73! using 2 cores to be executed in 1s
-    x 474) should 74! using 2 cores to be executed in 1s
-    x 475) should 75! using 2 cores to be executed in 1s
-    x 476) should 76! using 2 cores to be executed in 1s
-    x 477) should 77! using 2 cores to be executed in 1s
-    x 478) should 78! using 2 cores to be executed in 1s
-    x 479) should 79! using 2 cores to be executed in 1s
-    x 480) should 80! using 2 cores to be executed in 1s
-    x 481) should 81! using 2 cores to be executed in 1s
-    x 482) should 82! using 2 cores to be executed in 1s
-    x 483) should 83! using 2 cores to be executed in 1s
-    x 484) should 84! using 2 cores to be executed in 1s
-    x 485) should 85! using 2 cores to be executed in 1s
-    x 486) should 86! using 2 cores to be executed in 1s
-    x 487) should 87! using 2 cores to be executed in 1s
-    x 488) should 88! using 2 cores to be executed in 1s
-    x 489) should 89! using 2 cores to be executed in 1s
-    x 490) should 90! using 2 cores to be executed in 1s
-    x 491) should 91! using 2 cores to be executed in 1s
-    x 492) should 92! using 2 cores to be executed in 1s
-    x 493) should 93! using 2 cores to be executed in 1s
-    x 494) should 94! using 2 cores to be executed in 1s
-    x 495) should 95! using 2 cores to be executed in 1s
-    x 496) should 96! using 2 cores to be executed in 1s
-    x 497) should 97! using 2 cores to be executed in 1s
-    x 498) should 98! using 2 cores to be executed in 1s
-    x 499) should 99! using 2 cores to be executed in 1s
-    x 500) should 100! using 2 cores to be executed in 1s
-    x 501) should 1! using 4 cores to be executed in 1s
-    x 502) should 2! using 4 cores to be executed in 1s
-    x 503) should 3! using 4 cores to be executed in 1s
-    x 504) should 4! using 4 cores to be executed in 1s
-    x 505) should 5! using 4 cores to be executed in 1s
-    x 506) should 6! using 4 cores to be executed in 1s
-    x 507) should 7! using 4 cores to be executed in 1s
-    x 508) should 8! using 4 cores to be executed in 1s
-    x 509) should 9! using 4 cores to be executed in 1s
-    x 510) should 10! using 4 cores to be executed in 1s
-    x 511) should 11! using 4 cores to be executed in 1s
-    x 512) should 12! using 4 cores to be executed in 1s
-    x 513) should 13! using 4 cores to be executed in 1s
-    x 514) should 14! using 4 cores to be executed in 1s
-    x 515) should 15! using 4 cores to be executed in 1s
-    x 516) should 16! using 4 cores to be executed in 1s
-    x 517) should 17! using 4 cores to be executed in 1s
-    x 518) should 18! using 4 cores to be executed in 1s
-    x 519) should 19! using 4 cores to be executed in 1s
-    x 520) should 20! using 4 cores to be executed in 1s
-    x 521) should 21! using 4 cores to be executed in 1s
-    x 522) should 22! using 4 cores to be executed in 1s
-    x 523) should 23! using 4 cores to be executed in 1s
-    x 524) should 24! using 4 cores to be executed in 1s
-    x 525) should 25! using 4 cores to be executed in 1s
-    x 526) should 26! using 4 cores to be executed in 1s
-    x 527) should 27! using 4 cores to be executed in 1s
-    x 528) should 28! using 4 cores to be executed in 1s
-    x 529) should 29! using 4 cores to be executed in 1s
-    x 530) should 30! using 4 cores to be executed in 1s
-    x 531) should 31! using 4 cores to be executed in 1s
-    x 532) should 32! using 4 cores to be executed in 1s
-    x 533) should 33! using 4 cores to be executed in 1s
-    x 534) should 34! using 4 cores to be executed in 1s
-    x 535) should 35! using 4 cores to be executed in 1s
-    x 536) should 36! using 4 cores to be executed in 1s
-    x 537) should 37! using 4 cores to be executed in 1s
-    x 538) should 38! using 4 cores to be executed in 1s
-    x 539) should 39! using 4 cores to be executed in 1s
-    x 540) should 40! using 4 cores to be executed in 1s
-    x 541) should 41! using 4 cores to be executed in 1s
-    x 542) should 42! using 4 cores to be executed in 1s
-    x 543) should 43! using 4 cores to be executed in 1s
-    x 544) should 44! using 4 cores to be executed in 1s
-    x 545) should 45! using 4 cores to be executed in 1s
-    x 546) should 46! using 4 cores to be executed in 1s
-    x 547) should 47! using 4 cores to be executed in 1s
-    x 548) should 48! using 4 cores to be executed in 1s
-    x 549) should 49! using 4 cores to be executed in 1s
-    x 550) should 50! using 4 cores to be executed in 1s
-    x 551) should 51! using 4 cores to be executed in 1s
-    x 552) should 52! using 4 cores to be executed in 1s
-    x 553) should 53! using 4 cores to be executed in 1s
-    x 554) should 54! using 4 cores to be executed in 1s
-    x 555) should 55! using 4 cores to be executed in 1s
-    x 556) should 56! using 4 cores to be executed in 1s
-    x 557) should 57! using 4 cores to be executed in 1s
-    x 558) should 58! using 4 cores to be executed in 1s
-    x 559) should 59! using 4 cores to be executed in 1s
-    x 560) should 60! using 4 cores to be executed in 1s
-    x 561) should 61! using 4 cores to be executed in 1s
-    x 562) should 62! using 4 cores to be executed in 1s
-    x 563) should 63! using 4 cores to be executed in 1s
-    x 564) should 64! using 4 cores to be executed in 1s
-    x 565) should 65! using 4 cores to be executed in 1s
-    x 566) should 66! using 4 cores to be executed in 1s
-    x 567) should 67! using 4 cores to be executed in 1s
-    x 568) should 68! using 4 cores to be executed in 1s
-    x 569) should 69! using 4 cores to be executed in 1s
-    x 570) should 70! using 4 cores to be executed in 1s
-    x 571) should 71! using 4 cores to be executed in 1s
-    x 572) should 72! using 4 cores to be executed in 1s
-    x 573) should 73! using 4 cores to be executed in 1s
-    x 574) should 74! using 4 cores to be executed in 1s
-    x 575) should 75! using 4 cores to be executed in 1s
-    x 576) should 76! using 4 cores to be executed in 1s
-    x 577) should 77! using 4 cores to be executed in 1s
-    x 578) should 78! using 4 cores to be executed in 1s
-    x 579) should 79! using 4 cores to be executed in 1s
-    x 580) should 80! using 4 cores to be executed in 1s
-    x 581) should 81! using 4 cores to be executed in 1s
-    x 582) should 82! using 4 cores to be executed in 1s
-    x 583) should 83! using 4 cores to be executed in 1s
-    x 584) should 84! using 4 cores to be executed in 1s
-    x 585) should 85! using 4 cores to be executed in 1s
-    x 586) should 86! using 4 cores to be executed in 1s
-    x 587) should 87! using 4 cores to be executed in 1s
-    x 588) should 88! using 4 cores to be executed in 1s
-    x 589) should 89! using 4 cores to be executed in 1s
-    x 590) should 90! using 4 cores to be executed in 1s
-    x 591) should 91! using 4 cores to be executed in 1s
-    x 592) should 92! using 4 cores to be executed in 1s
-    x 593) should 93! using 4 cores to be executed in 1s
-    x 594) should 94! using 4 cores to be executed in 1s
-    x 595) should 95! using 4 cores to be executed in 1s
-    x 596) should 96! using 4 cores to be executed in 1s
-    x 597) should 97! using 4 cores to be executed in 1s
-    x 598) should 98! using 4 cores to be executed in 1s
-    x 599) should 99! using 4 cores to be executed in 1s
-    x 600) should 100! using 4 cores to be executed in 1s
+    x 301) should 1! using 1 cores to be executed in 0s
+    x 302) should 2! using 1 cores to be executed in 0s
+    x 303) should 3! using 1 cores to be executed in 0s
+    x 304) should 4! using 1 cores to be executed in 0s
+    x 305) should 5! using 1 cores to be executed in 0s
+    x 306) should 6! using 1 cores to be executed in 0s
+    x 307) should 7! using 1 cores to be executed in 0s
+    x 308) should 8! using 1 cores to be executed in 0s
+    x 309) should 9! using 1 cores to be executed in 0s
+    x 310) should 10! using 1 cores to be executed in 0s
+    x 311) should 11! using 1 cores to be executed in 0s
+    x 312) should 12! using 1 cores to be executed in 0s
+    x 313) should 13! using 1 cores to be executed in 0s
+    x 314) should 14! using 1 cores to be executed in 0s
+    x 315) should 15! using 1 cores to be executed in 0s
+    x 316) should 16! using 1 cores to be executed in 0s
+    x 317) should 17! using 1 cores to be executed in 0s
+    x 318) should 18! using 1 cores to be executed in 0s
+    x 319) should 19! using 1 cores to be executed in 0s
+    x 320) should 20! using 1 cores to be executed in 0s
+    x 321) should 21! using 1 cores to be executed in 0s
+    x 322) should 22! using 1 cores to be executed in 0s
+    x 323) should 23! using 1 cores to be executed in 0s
+    x 324) should 24! using 1 cores to be executed in 0s
+    x 325) should 25! using 1 cores to be executed in 0s
+    x 326) should 26! using 1 cores to be executed in 0s
+    x 327) should 27! using 1 cores to be executed in 0s
+    x 328) should 28! using 1 cores to be executed in 0s
+    x 329) should 29! using 1 cores to be executed in 0s
+    x 330) should 30! using 1 cores to be executed in 0s
+    x 331) should 31! using 1 cores to be executed in 0s
+    x 332) should 32! using 1 cores to be executed in 0s
+    x 333) should 33! using 1 cores to be executed in 0s
+    x 334) should 34! using 1 cores to be executed in 0s
+    x 335) should 35! using 1 cores to be executed in 0s
+    x 336) should 36! using 1 cores to be executed in 0s
+    x 337) should 37! using 1 cores to be executed in 0s
+    x 338) should 38! using 1 cores to be executed in 0s
+    x 339) should 39! using 1 cores to be executed in 0s
+    x 340) should 40! using 1 cores to be executed in 0s
+    x 341) should 41! using 1 cores to be executed in 0s
+    x 342) should 42! using 1 cores to be executed in 0s
+    x 343) should 43! using 1 cores to be executed in 0s
+    x 344) should 44! using 1 cores to be executed in 0s
+    x 345) should 45! using 1 cores to be executed in 0s
+    x 346) should 46! using 1 cores to be executed in 0s
+    x 347) should 47! using 1 cores to be executed in 0s
+    x 348) should 48! using 1 cores to be executed in 0s
+    x 349) should 49! using 1 cores to be executed in 0s
+    x 350) should 50! using 1 cores to be executed in 0s
+    x 351) should 51! using 1 cores to be executed in 0s
+    x 352) should 52! using 1 cores to be executed in 0s
+    x 353) should 53! using 1 cores to be executed in 0s
+    x 354) should 54! using 1 cores to be executed in 0s
+    x 355) should 55! using 1 cores to be executed in 0s
+    x 356) should 56! using 1 cores to be executed in 0s
+    x 357) should 57! using 1 cores to be executed in 0s
+    x 358) should 58! using 1 cores to be executed in 0s
+    x 359) should 59! using 1 cores to be executed in 0s
+    x 360) should 60! using 1 cores to be executed in 0s
+    x 361) should 61! using 1 cores to be executed in 0s
+    x 362) should 62! using 1 cores to be executed in 0s
+    x 363) should 63! using 1 cores to be executed in 0s
+    x 364) should 64! using 1 cores to be executed in 0s
+    x 365) should 65! using 1 cores to be executed in 0s
+    x 366) should 66! using 1 cores to be executed in 0s
+    x 367) should 67! using 1 cores to be executed in 0s
+    x 368) should 68! using 1 cores to be executed in 0s
+    x 369) should 69! using 1 cores to be executed in 0s
+    x 370) should 70! using 1 cores to be executed in 0s
+    x 371) should 71! using 1 cores to be executed in 0s
+    x 372) should 72! using 1 cores to be executed in 0s
+    x 373) should 73! using 1 cores to be executed in 0s
+    x 374) should 74! using 1 cores to be executed in 0s
+    x 375) should 75! using 1 cores to be executed in 0s
+    x 376) should 76! using 1 cores to be executed in 0s
+    x 377) should 77! using 1 cores to be executed in 0s
+    x 378) should 78! using 1 cores to be executed in 0s
+    x 379) should 79! using 1 cores to be executed in 0s
+    x 380) should 80! using 1 cores to be executed in 0s
+    x 381) should 81! using 1 cores to be executed in 0s
+    x 382) should 82! using 1 cores to be executed in 0s
+    x 383) should 83! using 1 cores to be executed in 0s
+    x 384) should 84! using 1 cores to be executed in 0s
+    x 385) should 85! using 1 cores to be executed in 0s
+    x 386) should 86! using 1 cores to be executed in 0s
+    x 387) should 87! using 1 cores to be executed in 0s
+    x 388) should 88! using 1 cores to be executed in 0s
+    x 389) should 89! using 1 cores to be executed in 0s
+    x 390) should 90! using 1 cores to be executed in 0s
+    x 391) should 91! using 1 cores to be executed in 0s
+    x 392) should 92! using 1 cores to be executed in 0s
+    x 393) should 93! using 1 cores to be executed in 0s
+    x 394) should 94! using 1 cores to be executed in 0s
+    x 395) should 95! using 1 cores to be executed in 0s
+    x 396) should 96! using 1 cores to be executed in 0s
+    x 397) should 97! using 1 cores to be executed in 0s
+    x 398) should 98! using 1 cores to be executed in 0s
+    x 399) should 99! using 1 cores to be executed in 0s
+    x 400) should 100! using 1 cores to be executed in 0s
+    x 401) should 1! using 2 cores to be executed in 0s
+    x 402) should 2! using 2 cores to be executed in 0s
+    x 403) should 3! using 2 cores to be executed in 0s
+    x 404) should 4! using 2 cores to be executed in 0s
+    x 405) should 5! using 2 cores to be executed in 0s
+    x 406) should 6! using 2 cores to be executed in 0s
+    x 407) should 7! using 2 cores to be executed in 0s
+    x 408) should 8! using 2 cores to be executed in 0s
+    x 409) should 9! using 2 cores to be executed in 0s
+    x 410) should 10! using 2 cores to be executed in 0s
+    x 411) should 11! using 2 cores to be executed in 0s
+    x 412) should 12! using 2 cores to be executed in 0s
+    x 413) should 13! using 2 cores to be executed in 0s
+    x 414) should 14! using 2 cores to be executed in 0s
+    x 415) should 15! using 2 cores to be executed in 0s
+    x 416) should 16! using 2 cores to be executed in 0s
+    x 417) should 17! using 2 cores to be executed in 0s
+    x 418) should 18! using 2 cores to be executed in 0s
+    x 419) should 19! using 2 cores to be executed in 0s
+    x 420) should 20! using 2 cores to be executed in 0s
+    x 421) should 21! using 2 cores to be executed in 0s
+    x 422) should 22! using 2 cores to be executed in 0s
+    x 423) should 23! using 2 cores to be executed in 0s
+    x 424) should 24! using 2 cores to be executed in 0s
+    x 425) should 25! using 2 cores to be executed in 0s
+    x 426) should 26! using 2 cores to be executed in 0s
+    x 427) should 27! using 2 cores to be executed in 0s
+    x 428) should 28! using 2 cores to be executed in 0s
+    x 429) should 29! using 2 cores to be executed in 0s
+    x 430) should 30! using 2 cores to be executed in 0s
+    x 431) should 31! using 2 cores to be executed in 0s
+    x 432) should 32! using 2 cores to be executed in 0s
+    x 433) should 33! using 2 cores to be executed in 0s
+    x 434) should 34! using 2 cores to be executed in 0s
+    x 435) should 35! using 2 cores to be executed in 0s
+    x 436) should 36! using 2 cores to be executed in 0s
+    x 437) should 37! using 2 cores to be executed in 0s
+    x 438) should 38! using 2 cores to be executed in 0s
+    x 439) should 39! using 2 cores to be executed in 0s
+    x 440) should 40! using 2 cores to be executed in 0s
+    x 441) should 41! using 2 cores to be executed in 0s
+    x 442) should 42! using 2 cores to be executed in 0s
+    x 443) should 43! using 2 cores to be executed in 0s
+    x 444) should 44! using 2 cores to be executed in 0s
+    x 445) should 45! using 2 cores to be executed in 0s
+    x 446) should 46! using 2 cores to be executed in 0s
+    x 447) should 47! using 2 cores to be executed in 0s
+    x 448) should 48! using 2 cores to be executed in 0s
+    x 449) should 49! using 2 cores to be executed in 0s
+    x 450) should 50! using 2 cores to be executed in 0s
+    x 451) should 51! using 2 cores to be executed in 0s
+    x 452) should 52! using 2 cores to be executed in 0s
+    x 453) should 53! using 2 cores to be executed in 0s
+    x 454) should 54! using 2 cores to be executed in 0s
+    x 455) should 55! using 2 cores to be executed in 0s
+    x 456) should 56! using 2 cores to be executed in 0s
+    x 457) should 57! using 2 cores to be executed in 0s
+    x 458) should 58! using 2 cores to be executed in 0s
+    x 459) should 59! using 2 cores to be executed in 0s
+    x 460) should 60! using 2 cores to be executed in 0s
+    x 461) should 61! using 2 cores to be executed in 0s
+    x 462) should 62! using 2 cores to be executed in 0s
+    x 463) should 63! using 2 cores to be executed in 0s
+    x 464) should 64! using 2 cores to be executed in 0s
+    x 465) should 65! using 2 cores to be executed in 0s
+    x 466) should 66! using 2 cores to be executed in 0s
+    x 467) should 67! using 2 cores to be executed in 0s
+    x 468) should 68! using 2 cores to be executed in 0s
+    x 469) should 69! using 2 cores to be executed in 0s
+    x 470) should 70! using 2 cores to be executed in 0s
+    x 471) should 71! using 2 cores to be executed in 0s
+    x 472) should 72! using 2 cores to be executed in 0s
+    x 473) should 73! using 2 cores to be executed in 0s
+    x 474) should 74! using 2 cores to be executed in 0s
+    x 475) should 75! using 2 cores to be executed in 0s
+    x 476) should 76! using 2 cores to be executed in 0s
+    x 477) should 77! using 2 cores to be executed in 0s
+    x 478) should 78! using 2 cores to be executed in 0s
+    x 479) should 79! using 2 cores to be executed in 0s
+    x 480) should 80! using 2 cores to be executed in 0s
+    x 481) should 81! using 2 cores to be executed in 0s
+    x 482) should 82! using 2 cores to be executed in 0s
+    x 483) should 83! using 2 cores to be executed in 0s
+    x 484) should 84! using 2 cores to be executed in 0s
+    x 485) should 85! using 2 cores to be executed in 0s
+    x 486) should 86! using 2 cores to be executed in 0s
+    x 487) should 87! using 2 cores to be executed in 0s
+    x 488) should 88! using 2 cores to be executed in 0s
+    x 489) should 89! using 2 cores to be executed in 0s
+    x 490) should 90! using 2 cores to be executed in 0s
+    x 491) should 91! using 2 cores to be executed in 0s
+    x 492) should 92! using 2 cores to be executed in 0s
+    x 493) should 93! using 2 cores to be executed in 0s
+    x 494) should 94! using 2 cores to be executed in 0s
+    x 495) should 95! using 2 cores to be executed in 0s
+    x 496) should 96! using 2 cores to be executed in 0s
+    x 497) should 97! using 2 cores to be executed in 0s
+    x 498) should 98! using 2 cores to be executed in 0s
+    x 499) should 99! using 2 cores to be executed in 0s
+    x 500) should 100! using 2 cores to be executed in 0s
+    x 501) should 1! using 4 cores to be executed in 0s
+    x 502) should 2! using 4 cores to be executed in 0s
+    x 503) should 3! using 4 cores to be executed in 0s
+    x 504) should 4! using 4 cores to be executed in 0s
+    x 505) should 5! using 4 cores to be executed in 0s
+    x 506) should 6! using 4 cores to be executed in 0s
+    x 507) should 7! using 4 cores to be executed in 0s
+    x 508) should 8! using 4 cores to be executed in 0s
+    x 509) should 9! using 4 cores to be executed in 0s
+    x 510) should 10! using 4 cores to be executed in 0s
+    x 511) should 11! using 4 cores to be executed in 0s
+    x 512) should 12! using 4 cores to be executed in 0s
+    x 513) should 13! using 4 cores to be executed in 0s
+    x 514) should 14! using 4 cores to be executed in 0s
+    x 515) should 15! using 4 cores to be executed in 0s
+    x 516) should 16! using 4 cores to be executed in 0s
+    x 517) should 17! using 4 cores to be executed in 0s
+    x 518) should 18! using 4 cores to be executed in 0s
+    x 519) should 19! using 4 cores to be executed in 0s
+    x 520) should 20! using 4 cores to be executed in 0s
+    x 521) should 21! using 4 cores to be executed in 0s
+    x 522) should 22! using 4 cores to be executed in 0s
+    x 523) should 23! using 4 cores to be executed in 0s
+    x 524) should 24! using 4 cores to be executed in 0s
+    x 525) should 25! using 4 cores to be executed in 0s
+    x 526) should 26! using 4 cores to be executed in 0s
+    x 527) should 27! using 4 cores to be executed in 0s
+    x 528) should 28! using 4 cores to be executed in 0s
+    x 529) should 29! using 4 cores to be executed in 0s
+    x 530) should 30! using 4 cores to be executed in 0s
+    x 531) should 31! using 4 cores to be executed in 0s
+    x 532) should 32! using 4 cores to be executed in 0s
+    x 533) should 33! using 4 cores to be executed in 0s
+    x 534) should 34! using 4 cores to be executed in 0s
+    x 535) should 35! using 4 cores to be executed in 0s
+    x 536) should 36! using 4 cores to be executed in 0s
+    x 537) should 37! using 4 cores to be executed in 0s
+    x 538) should 38! using 4 cores to be executed in 0s
+    x 539) should 39! using 4 cores to be executed in 0s
+    x 540) should 40! using 4 cores to be executed in 0s
+    x 541) should 41! using 4 cores to be executed in 0s
+    x 542) should 42! using 4 cores to be executed in 0s
+    x 543) should 43! using 4 cores to be executed in 0s
+    x 544) should 44! using 4 cores to be executed in 0s
+    x 545) should 45! using 4 cores to be executed in 0s
+    x 546) should 46! using 4 cores to be executed in 0s
+    x 547) should 47! using 4 cores to be executed in 0s
+    x 548) should 48! using 4 cores to be executed in 0s
+    x 549) should 49! using 4 cores to be executed in 0s
+    x 550) should 50! using 4 cores to be executed in 0s
+    x 551) should 51! using 4 cores to be executed in 0s
+    x 552) should 52! using 4 cores to be executed in 0s
+    x 553) should 53! using 4 cores to be executed in 0s
+    x 554) should 54! using 4 cores to be executed in 0s
+    x 555) should 55! using 4 cores to be executed in 0s
+    x 556) should 56! using 4 cores to be executed in 0s
+    x 557) should 57! using 4 cores to be executed in 0s
+    x 558) should 58! using 4 cores to be executed in 0s
+    x 559) should 59! using 4 cores to be executed in 0s
+    x 560) should 60! using 4 cores to be executed in 0s
+    x 561) should 61! using 4 cores to be executed in 0s
+    x 562) should 62! using 4 cores to be executed in 0s
+    x 563) should 63! using 4 cores to be executed in 0s
+    x 564) should 64! using 4 cores to be executed in 0s
+    x 565) should 65! using 4 cores to be executed in 0s
+    x 566) should 66! using 4 cores to be executed in 0s
+    x 567) should 67! using 4 cores to be executed in 0s
+    x 568) should 68! using 4 cores to be executed in 0s
+    x 569) should 69! using 4 cores to be executed in 0s
+    x 570) should 70! using 4 cores to be executed in 0s
+    x 571) should 71! using 4 cores to be executed in 0s
+    x 572) should 72! using 4 cores to be executed in 0s
+    x 573) should 73! using 4 cores to be executed in 0s
+    x 574) should 74! using 4 cores to be executed in 0s
+    x 575) should 75! using 4 cores to be executed in 0s
+    x 576) should 76! using 4 cores to be executed in 0s
+    x 577) should 77! using 4 cores to be executed in 0s
+    x 578) should 78! using 4 cores to be executed in 0s
+    x 579) should 79! using 4 cores to be executed in 0s
+    x 580) should 80! using 4 cores to be executed in 0s
+    x 581) should 81! using 4 cores to be executed in 0s
+    x 582) should 82! using 4 cores to be executed in 0s
+    x 583) should 83! using 4 cores to be executed in 0s
+    x 584) should 84! using 4 cores to be executed in 0s
+    x 585) should 85! using 4 cores to be executed in 0s
+    x 586) should 86! using 4 cores to be executed in 0s
+    x 587) should 87! using 4 cores to be executed in 0s
+    x 588) should 88! using 4 cores to be executed in 0s
+    x 589) should 89! using 4 cores to be executed in 0s
+    x 590) should 90! using 4 cores to be executed in 0s
+    x 591) should 91! using 4 cores to be executed in 0s
+    x 592) should 92! using 4 cores to be executed in 0s
+    x 593) should 93! using 4 cores to be executed in 0s
+    x 594) should 94! using 4 cores to be executed in 0s
+    x 595) should 95! using 4 cores to be executed in 0s
+    x 596) should 96! using 4 cores to be executed in 0s
+    x 597) should 97! using 4 cores to be executed in 0s
+    x 598) should 98! using 4 cores to be executed in 0s
+    x 599) should 99! using 4 cores to be executed in 0s
+    x 600) should 100! using 4 cores to be executed in 0s
 
 + 1) Factorial answers with correct numbers  should 1! be equal to 1 using 1 core:
 + 2) Factorial answers with correct numbers  should 1! be equal to 1 using 2 cores:
@@ -11435,1203 +11435,1203 @@ Factorial
 + 298) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 1 core:
 + 299) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 2 cores:
 + 300) Factorial answers with correct numbers  should 100! be equal to 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000 using 4 cores:
-x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 1s:
+x 301) Factorial check speed difference based on cores used  should 1! using 1 cores to be executed in 0s:
   1! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 1s:
+x 302) Factorial check speed difference based on cores used  should 2! using 1 cores to be executed in 0s:
   2! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 1s:
+x 303) Factorial check speed difference based on cores used  should 3! using 1 cores to be executed in 0s:
   3! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 1s:
+x 304) Factorial check speed difference based on cores used  should 4! using 1 cores to be executed in 0s:
   4! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 1s:
+x 305) Factorial check speed difference based on cores used  should 5! using 1 cores to be executed in 0s:
   5! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 1s:
+x 306) Factorial check speed difference based on cores used  should 6! using 1 cores to be executed in 0s:
   6! using 1 cores | Expected 0 but got 1000.0000000
   in ./performance_check.hpp:27
 
-x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 1s:
+x 307) Factorial check speed difference based on cores used  should 7! using 1 cores to be executed in 0s:
   7! using 1 cores | Expected 0 but got 2000.0000000
   in ./performance_check.hpp:27
 
-x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 1s:
+x 308) Factorial check speed difference based on cores used  should 8! using 1 cores to be executed in 0s:
   8! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 1s:
+x 309) Factorial check speed difference based on cores used  should 9! using 1 cores to be executed in 0s:
   9! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 1s:
+x 310) Factorial check speed difference based on cores used  should 10! using 1 cores to be executed in 0s:
   10! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 1s:
+x 311) Factorial check speed difference based on cores used  should 11! using 1 cores to be executed in 0s:
   11! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 1s:
+x 312) Factorial check speed difference based on cores used  should 12! using 1 cores to be executed in 0s:
   12! using 1 cores | Expected 0 but got 3000.0000000
   in ./performance_check.hpp:27
 
-x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 1s:
+x 313) Factorial check speed difference based on cores used  should 13! using 1 cores to be executed in 0s:
   13! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 1s:
+x 314) Factorial check speed difference based on cores used  should 14! using 1 cores to be executed in 0s:
   14! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 1s:
+x 315) Factorial check speed difference based on cores used  should 15! using 1 cores to be executed in 0s:
   15! using 1 cores | Expected 0 but got 4000.0000000
   in ./performance_check.hpp:27
 
-x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 1s:
+x 316) Factorial check speed difference based on cores used  should 16! using 1 cores to be executed in 0s:
   16! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 1s:
+x 317) Factorial check speed difference based on cores used  should 17! using 1 cores to be executed in 0s:
   17! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 1s:
+x 318) Factorial check speed difference based on cores used  should 18! using 1 cores to be executed in 0s:
   18! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 1s:
+x 319) Factorial check speed difference based on cores used  should 19! using 1 cores to be executed in 0s:
   19! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 1s:
+x 320) Factorial check speed difference based on cores used  should 20! using 1 cores to be executed in 0s:
   20! using 1 cores | Expected 0 but got 6000.0000000
   in ./performance_check.hpp:27
 
-x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 1s:
+x 321) Factorial check speed difference based on cores used  should 21! using 1 cores to be executed in 0s:
   21! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 1s:
+x 322) Factorial check speed difference based on cores used  should 22! using 1 cores to be executed in 0s:
   22! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 1s:
+x 323) Factorial check speed difference based on cores used  should 23! using 1 cores to be executed in 0s:
   23! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 1s:
+x 324) Factorial check speed difference based on cores used  should 24! using 1 cores to be executed in 0s:
   24! using 1 cores | Expected 0 but got 7000.0000000
   in ./performance_check.hpp:27
 
-x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 1s:
+x 325) Factorial check speed difference based on cores used  should 25! using 1 cores to be executed in 0s:
   25! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 1s:
+x 326) Factorial check speed difference based on cores used  should 26! using 1 cores to be executed in 0s:
   26! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 1s:
+x 327) Factorial check speed difference based on cores used  should 27! using 1 cores to be executed in 0s:
   27! using 1 cores | Expected 0 but got 8000.0000000
   in ./performance_check.hpp:27
 
-x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 1s:
+x 328) Factorial check speed difference based on cores used  should 28! using 1 cores to be executed in 0s:
   28! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 1s:
+x 329) Factorial check speed difference based on cores used  should 29! using 1 cores to be executed in 0s:
   29! using 1 cores | Expected 0 but got 9000.0000000
   in ./performance_check.hpp:27
 
-x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 1s:
+x 330) Factorial check speed difference based on cores used  should 30! using 1 cores to be executed in 0s:
   30! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 1s:
+x 331) Factorial check speed difference based on cores used  should 31! using 1 cores to be executed in 0s:
   31! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 1s:
+x 332) Factorial check speed difference based on cores used  should 32! using 1 cores to be executed in 0s:
   32! using 1 cores | Expected 0 but got 10000.0000000
   in ./performance_check.hpp:27
 
-x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 1s:
+x 333) Factorial check speed difference based on cores used  should 33! using 1 cores to be executed in 0s:
   33! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 1s:
+x 334) Factorial check speed difference based on cores used  should 34! using 1 cores to be executed in 0s:
   34! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 1s:
+x 335) Factorial check speed difference based on cores used  should 35! using 1 cores to be executed in 0s:
   35! using 1 cores | Expected 0 but got 11000.0000000
   in ./performance_check.hpp:27
 
-x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 1s:
+x 336) Factorial check speed difference based on cores used  should 36! using 1 cores to be executed in 0s:
   36! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 1s:
+x 337) Factorial check speed difference based on cores used  should 37! using 1 cores to be executed in 0s:
   37! using 1 cores | Expected 0 but got 12000.0000000
   in ./performance_check.hpp:27
 
-x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 1s:
+x 338) Factorial check speed difference based on cores used  should 38! using 1 cores to be executed in 0s:
   38! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 1s:
+x 339) Factorial check speed difference based on cores used  should 39! using 1 cores to be executed in 0s:
   39! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 1s:
+x 340) Factorial check speed difference based on cores used  should 40! using 1 cores to be executed in 0s:
   40! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 1s:
+x 341) Factorial check speed difference based on cores used  should 41! using 1 cores to be executed in 0s:
   41! using 1 cores | Expected 0 but got 13000.0000000
   in ./performance_check.hpp:27
 
-x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 1s:
+x 342) Factorial check speed difference based on cores used  should 42! using 1 cores to be executed in 0s:
   42! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 1s:
+x 343) Factorial check speed difference based on cores used  should 43! using 1 cores to be executed in 0s:
   43! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 1s:
+x 344) Factorial check speed difference based on cores used  should 44! using 1 cores to be executed in 0s:
   44! using 1 cores | Expected 0 but got 14000.0000000
   in ./performance_check.hpp:27
 
-x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 1s:
+x 345) Factorial check speed difference based on cores used  should 45! using 1 cores to be executed in 0s:
   45! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 1s:
+x 346) Factorial check speed difference based on cores used  should 46! using 1 cores to be executed in 0s:
   46! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 1s:
+x 347) Factorial check speed difference based on cores used  should 47! using 1 cores to be executed in 0s:
   47! using 1 cores | Expected 0 but got 15000.0000000
   in ./performance_check.hpp:27
 
-x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 1s:
+x 348) Factorial check speed difference based on cores used  should 48! using 1 cores to be executed in 0s:
   48! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 1s:
+x 349) Factorial check speed difference based on cores used  should 49! using 1 cores to be executed in 0s:
   49! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 1s:
+x 350) Factorial check speed difference based on cores used  should 50! using 1 cores to be executed in 0s:
   50! using 1 cores | Expected 0 but got 16000.0000000
   in ./performance_check.hpp:27
 
-x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 1s:
+x 351) Factorial check speed difference based on cores used  should 51! using 1 cores to be executed in 0s:
   51! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 1s:
+x 352) Factorial check speed difference based on cores used  should 52! using 1 cores to be executed in 0s:
   52! using 1 cores | Expected 0 but got 17000.0000000
   in ./performance_check.hpp:27
 
-x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 1s:
+x 353) Factorial check speed difference based on cores used  should 53! using 1 cores to be executed in 0s:
   53! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 1s:
+x 354) Factorial check speed difference based on cores used  should 54! using 1 cores to be executed in 0s:
   54! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 1s:
+x 355) Factorial check speed difference based on cores used  should 55! using 1 cores to be executed in 0s:
   55! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 1s:
+x 356) Factorial check speed difference based on cores used  should 56! using 1 cores to be executed in 0s:
   56! using 1 cores | Expected 0 but got 18000.0000000
   in ./performance_check.hpp:27
 
-x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 1s:
+x 357) Factorial check speed difference based on cores used  should 57! using 1 cores to be executed in 0s:
   57! using 1 cores | Expected 0 but got 19000.0000000
   in ./performance_check.hpp:27
 
-x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 1s:
+x 358) Factorial check speed difference based on cores used  should 58! using 1 cores to be executed in 0s:
   58! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 1s:
+x 359) Factorial check speed difference based on cores used  should 59! using 1 cores to be executed in 0s:
   59! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 1s:
+x 360) Factorial check speed difference based on cores used  should 60! using 1 cores to be executed in 0s:
   60! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 1s:
+x 361) Factorial check speed difference based on cores used  should 61! using 1 cores to be executed in 0s:
   61! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 1s:
+x 362) Factorial check speed difference based on cores used  should 62! using 1 cores to be executed in 0s:
   62! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 1s:
+x 363) Factorial check speed difference based on cores used  should 63! using 1 cores to be executed in 0s:
   63! using 1 cores | Expected 0 but got 20000.0000000
   in ./performance_check.hpp:27
 
-x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 1s:
+x 364) Factorial check speed difference based on cores used  should 64! using 1 cores to be executed in 0s:
   64! using 1 cores | Expected 0 but got 21000.0000000
   in ./performance_check.hpp:27
 
-x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 1s:
+x 365) Factorial check speed difference based on cores used  should 65! using 1 cores to be executed in 0s:
   65! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 1s:
+x 366) Factorial check speed difference based on cores used  should 66! using 1 cores to be executed in 0s:
   66! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 1s:
+x 367) Factorial check speed difference based on cores used  should 67! using 1 cores to be executed in 0s:
   67! using 1 cores | Expected 0 but got 22000.0000000
   in ./performance_check.hpp:27
 
-x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 1s:
+x 368) Factorial check speed difference based on cores used  should 68! using 1 cores to be executed in 0s:
   68! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 1s:
+x 369) Factorial check speed difference based on cores used  should 69! using 1 cores to be executed in 0s:
   69! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 1s:
+x 370) Factorial check speed difference based on cores used  should 70! using 1 cores to be executed in 0s:
   70! using 1 cores | Expected 0 but got 23000.0000000
   in ./performance_check.hpp:27
 
-x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 1s:
+x 371) Factorial check speed difference based on cores used  should 71! using 1 cores to be executed in 0s:
   71! using 1 cores | Expected 0 but got 24000.0000000
   in ./performance_check.hpp:27
 
-x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 1s:
+x 372) Factorial check speed difference based on cores used  should 72! using 1 cores to be executed in 0s:
   72! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 1s:
+x 373) Factorial check speed difference based on cores used  should 73! using 1 cores to be executed in 0s:
   73! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 1s:
+x 374) Factorial check speed difference based on cores used  should 74! using 1 cores to be executed in 0s:
   74! using 1 cores | Expected 0 but got 25000.0000000
   in ./performance_check.hpp:27
 
-x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 1s:
+x 375) Factorial check speed difference based on cores used  should 75! using 1 cores to be executed in 0s:
   75! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 1s:
+x 376) Factorial check speed difference based on cores used  should 76! using 1 cores to be executed in 0s:
   76! using 1 cores | Expected 0 but got 26000.0000000
   in ./performance_check.hpp:27
 
-x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 1s:
+x 377) Factorial check speed difference based on cores used  should 77! using 1 cores to be executed in 0s:
   77! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 1s:
+x 378) Factorial check speed difference based on cores used  should 78! using 1 cores to be executed in 0s:
   78! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 1s:
+x 379) Factorial check speed difference based on cores used  should 79! using 1 cores to be executed in 0s:
   79! using 1 cores | Expected 0 but got 27000.0000000
   in ./performance_check.hpp:27
 
-x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 1s:
+x 380) Factorial check speed difference based on cores used  should 80! using 1 cores to be executed in 0s:
   80! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 1s:
+x 381) Factorial check speed difference based on cores used  should 81! using 1 cores to be executed in 0s:
   81! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 1s:
+x 382) Factorial check speed difference based on cores used  should 82! using 1 cores to be executed in 0s:
   82! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 1s:
+x 383) Factorial check speed difference based on cores used  should 83! using 1 cores to be executed in 0s:
   83! using 1 cores | Expected 0 but got 28000.0000000
   in ./performance_check.hpp:27
 
-x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 1s:
+x 384) Factorial check speed difference based on cores used  should 84! using 1 cores to be executed in 0s:
   84! using 1 cores | Expected 0 but got 29000.0000000
   in ./performance_check.hpp:27
 
-x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 1s:
+x 385) Factorial check speed difference based on cores used  should 85! using 1 cores to be executed in 0s:
   85! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 1s:
+x 386) Factorial check speed difference based on cores used  should 86! using 1 cores to be executed in 0s:
   86! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 1s:
+x 387) Factorial check speed difference based on cores used  should 87! using 1 cores to be executed in 0s:
   87! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 1s:
+x 388) Factorial check speed difference based on cores used  should 88! using 1 cores to be executed in 0s:
   88! using 1 cores | Expected 0 but got 30000.0000000
   in ./performance_check.hpp:27
 
-x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 1s:
+x 389) Factorial check speed difference based on cores used  should 89! using 1 cores to be executed in 0s:
   89! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 1s:
+x 390) Factorial check speed difference based on cores used  should 90! using 1 cores to be executed in 0s:
   90! using 1 cores | Expected 0 but got 31000.0000000
   in ./performance_check.hpp:27
 
-x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 1s:
+x 391) Factorial check speed difference based on cores used  should 91! using 1 cores to be executed in 0s:
   91! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 1s:
+x 392) Factorial check speed difference based on cores used  should 92! using 1 cores to be executed in 0s:
   92! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 1s:
+x 393) Factorial check speed difference based on cores used  should 93! using 1 cores to be executed in 0s:
   93! using 1 cores | Expected 0 but got 32000.0000000
   in ./performance_check.hpp:27
 
-x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 1s:
+x 394) Factorial check speed difference based on cores used  should 94! using 1 cores to be executed in 0s:
   94! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 1s:
+x 395) Factorial check speed difference based on cores used  should 95! using 1 cores to be executed in 0s:
   95! using 1 cores | Expected 0 but got 33000.0000000
   in ./performance_check.hpp:27
 
-x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 1s:
+x 396) Factorial check speed difference based on cores used  should 96! using 1 cores to be executed in 0s:
   96! using 1 cores | Expected 0 but got 93000.0000000
   in ./performance_check.hpp:27
 
-x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 1s:
+x 397) Factorial check speed difference based on cores used  should 97! using 1 cores to be executed in 0s:
   97! using 1 cores | Expected 0 but got 42000.0000000
   in ./performance_check.hpp:27
 
-x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 1s:
+x 398) Factorial check speed difference based on cores used  should 98! using 1 cores to be executed in 0s:
   98! using 1 cores | Expected 0 but got 43000.0000000
   in ./performance_check.hpp:27
 
-x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 1s:
+x 399) Factorial check speed difference based on cores used  should 99! using 1 cores to be executed in 0s:
   99! using 1 cores | Expected 0 but got 42000.0000000
   in ./performance_check.hpp:27
 
-x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 1s:
+x 400) Factorial check speed difference based on cores used  should 100! using 1 cores to be executed in 0s:
   100! using 1 cores | Expected 0 but got 43000.0000000
   in ./performance_check.hpp:27
 
-x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 1s:
+x 401) Factorial check speed difference based on cores used  should 1! using 2 cores to be executed in 0s:
   1! using 2 cores | Expected 0 but got 511000.0000000
   in ./performance_check.hpp:27
 
-x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 1s:
+x 402) Factorial check speed difference based on cores used  should 2! using 2 cores to be executed in 0s:
   2! using 2 cores | Expected 0 but got 409000.0000000
   in ./performance_check.hpp:27
 
-x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 1s:
+x 403) Factorial check speed difference based on cores used  should 3! using 2 cores to be executed in 0s:
   3! using 2 cores | Expected 0 but got 316000.0000000
   in ./performance_check.hpp:27
 
-x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 1s:
+x 404) Factorial check speed difference based on cores used  should 4! using 2 cores to be executed in 0s:
   4! using 2 cores | Expected 0 but got 446000.0000000
   in ./performance_check.hpp:27
 
-x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 1s:
+x 405) Factorial check speed difference based on cores used  should 5! using 2 cores to be executed in 0s:
   5! using 2 cores | Expected 0 but got 449000.0000000
   in ./performance_check.hpp:27
 
-x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 1s:
+x 406) Factorial check speed difference based on cores used  should 6! using 2 cores to be executed in 0s:
   6! using 2 cores | Expected 0 but got 416000.0000000
   in ./performance_check.hpp:27
 
-x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 1s:
+x 407) Factorial check speed difference based on cores used  should 7! using 2 cores to be executed in 0s:
   7! using 2 cores | Expected 0 but got 323000.0000000
   in ./performance_check.hpp:27
 
-x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 1s:
+x 408) Factorial check speed difference based on cores used  should 8! using 2 cores to be executed in 0s:
   8! using 2 cores | Expected 0 but got 300000.0000000
   in ./performance_check.hpp:27
 
-x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 1s:
+x 409) Factorial check speed difference based on cores used  should 9! using 2 cores to be executed in 0s:
   9! using 2 cores | Expected 0 but got 277000.0000000
   in ./performance_check.hpp:27
 
-x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 1s:
+x 410) Factorial check speed difference based on cores used  should 10! using 2 cores to be executed in 0s:
   10! using 2 cores | Expected 0 but got 248000.0000000
   in ./performance_check.hpp:27
 
-x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 1s:
+x 411) Factorial check speed difference based on cores used  should 11! using 2 cores to be executed in 0s:
   11! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 1s:
+x 412) Factorial check speed difference based on cores used  should 12! using 2 cores to be executed in 0s:
   12! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 1s:
+x 413) Factorial check speed difference based on cores used  should 13! using 2 cores to be executed in 0s:
   13! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 1s:
+x 414) Factorial check speed difference based on cores used  should 14! using 2 cores to be executed in 0s:
   14! using 2 cores | Expected 0 but got 189000.0000000
   in ./performance_check.hpp:27
 
-x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 1s:
+x 415) Factorial check speed difference based on cores used  should 15! using 2 cores to be executed in 0s:
   15! using 2 cores | Expected 0 but got 190000.0000000
   in ./performance_check.hpp:27
 
-x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 1s:
+x 416) Factorial check speed difference based on cores used  should 16! using 2 cores to be executed in 0s:
   16! using 2 cores | Expected 0 but got 175000.0000000
   in ./performance_check.hpp:27
 
-x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 1s:
+x 417) Factorial check speed difference based on cores used  should 17! using 2 cores to be executed in 0s:
   17! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 1s:
+x 418) Factorial check speed difference based on cores used  should 18! using 2 cores to be executed in 0s:
   18! using 2 cores | Expected 0 but got 187000.0000000
   in ./performance_check.hpp:27
 
-x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 1s:
+x 419) Factorial check speed difference based on cores used  should 19! using 2 cores to be executed in 0s:
   19! using 2 cores | Expected 0 but got 175000.0000000
   in ./performance_check.hpp:27
 
-x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 1s:
+x 420) Factorial check speed difference based on cores used  should 20! using 2 cores to be executed in 0s:
   20! using 2 cores | Expected 0 but got 180000.0000000
   in ./performance_check.hpp:27
 
-x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 1s:
+x 421) Factorial check speed difference based on cores used  should 21! using 2 cores to be executed in 0s:
   21! using 2 cores | Expected 0 but got 203000.0000000
   in ./performance_check.hpp:27
 
-x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 1s:
+x 422) Factorial check speed difference based on cores used  should 22! using 2 cores to be executed in 0s:
   22! using 2 cores | Expected 0 but got 197000.0000000
   in ./performance_check.hpp:27
 
-x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 1s:
+x 423) Factorial check speed difference based on cores used  should 23! using 2 cores to be executed in 0s:
   23! using 2 cores | Expected 0 but got 182000.0000000
   in ./performance_check.hpp:27
 
-x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 1s:
+x 424) Factorial check speed difference based on cores used  should 24! using 2 cores to be executed in 0s:
   24! using 2 cores | Expected 0 but got 183000.0000000
   in ./performance_check.hpp:27
 
-x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 1s:
+x 425) Factorial check speed difference based on cores used  should 25! using 2 cores to be executed in 0s:
   25! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 1s:
+x 426) Factorial check speed difference based on cores used  should 26! using 2 cores to be executed in 0s:
   26! using 2 cores | Expected 0 but got 194000.0000000
   in ./performance_check.hpp:27
 
-x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 1s:
+x 427) Factorial check speed difference based on cores used  should 27! using 2 cores to be executed in 0s:
   27! using 2 cores | Expected 0 but got 195000.0000000
   in ./performance_check.hpp:27
 
-x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 1s:
+x 428) Factorial check speed difference based on cores used  should 28! using 2 cores to be executed in 0s:
   28! using 2 cores | Expected 0 but got 180000.0000000
   in ./performance_check.hpp:27
 
-x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 1s:
+x 429) Factorial check speed difference based on cores used  should 29! using 2 cores to be executed in 0s:
   29! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 1s:
+x 430) Factorial check speed difference based on cores used  should 30! using 2 cores to be executed in 0s:
   30! using 2 cores | Expected 0 but got 180000.0000000
   in ./performance_check.hpp:27
 
-x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 1s:
+x 431) Factorial check speed difference based on cores used  should 31! using 2 cores to be executed in 0s:
   31! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 1s:
+x 432) Factorial check speed difference based on cores used  should 32! using 2 cores to be executed in 0s:
   32! using 2 cores | Expected 0 but got 182000.0000000
   in ./performance_check.hpp:27
 
-x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 1s:
+x 433) Factorial check speed difference based on cores used  should 33! using 2 cores to be executed in 0s:
   33! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 1s:
+x 434) Factorial check speed difference based on cores used  should 34! using 2 cores to be executed in 0s:
   34! using 2 cores | Expected 0 but got 185000.0000000
   in ./performance_check.hpp:27
 
-x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 1s:
+x 435) Factorial check speed difference based on cores used  should 35! using 2 cores to be executed in 0s:
   35! using 2 cores | Expected 0 but got 324000.0000000
   in ./performance_check.hpp:27
 
-x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 1s:
+x 436) Factorial check speed difference based on cores used  should 36! using 2 cores to be executed in 0s:
   36! using 2 cores | Expected 0 but got 236000.0000000
   in ./performance_check.hpp:27
 
-x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 1s:
+x 437) Factorial check speed difference based on cores used  should 37! using 2 cores to be executed in 0s:
   37! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 1s:
+x 438) Factorial check speed difference based on cores used  should 38! using 2 cores to be executed in 0s:
   38! using 2 cores | Expected 0 but got 233000.0000000
   in ./performance_check.hpp:27
 
-x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 1s:
+x 439) Factorial check speed difference based on cores used  should 39! using 2 cores to be executed in 0s:
   39! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 1s:
+x 440) Factorial check speed difference based on cores used  should 40! using 2 cores to be executed in 0s:
   40! using 2 cores | Expected 0 but got 199000.0000000
   in ./performance_check.hpp:27
 
-x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 1s:
+x 441) Factorial check speed difference based on cores used  should 41! using 2 cores to be executed in 0s:
   41! using 2 cores | Expected 0 but got 237000.0000000
   in ./performance_check.hpp:27
 
-x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 1s:
+x 442) Factorial check speed difference based on cores used  should 42! using 2 cores to be executed in 0s:
   42! using 2 cores | Expected 0 but got 191000.0000000
   in ./performance_check.hpp:27
 
-x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 1s:
+x 443) Factorial check speed difference based on cores used  should 43! using 2 cores to be executed in 0s:
   43! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 1s:
+x 444) Factorial check speed difference based on cores used  should 44! using 2 cores to be executed in 0s:
   44! using 2 cores | Expected 0 but got 188000.0000000
   in ./performance_check.hpp:27
 
-x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 1s:
+x 445) Factorial check speed difference based on cores used  should 45! using 2 cores to be executed in 0s:
   45! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 1s:
+x 446) Factorial check speed difference based on cores used  should 46! using 2 cores to be executed in 0s:
   46! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 1s:
+x 447) Factorial check speed difference based on cores used  should 47! using 2 cores to be executed in 0s:
   47! using 2 cores | Expected 0 but got 190000.0000000
   in ./performance_check.hpp:27
 
-x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 1s:
+x 448) Factorial check speed difference based on cores used  should 48! using 2 cores to be executed in 0s:
   48! using 2 cores | Expected 0 but got 177000.0000000
   in ./performance_check.hpp:27
 
-x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 1s:
+x 449) Factorial check speed difference based on cores used  should 49! using 2 cores to be executed in 0s:
   49! using 2 cores | Expected 0 but got 208000.0000000
   in ./performance_check.hpp:27
 
-x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 1s:
+x 450) Factorial check speed difference based on cores used  should 50! using 2 cores to be executed in 0s:
   50! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 1s:
+x 451) Factorial check speed difference based on cores used  should 51! using 2 cores to be executed in 0s:
   51! using 2 cores | Expected 0 but got 192000.0000000
   in ./performance_check.hpp:27
 
-x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 1s:
+x 452) Factorial check speed difference based on cores used  should 52! using 2 cores to be executed in 0s:
   52! using 2 cores | Expected 0 but got 178000.0000000
   in ./performance_check.hpp:27
 
-x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 1s:
+x 453) Factorial check speed difference based on cores used  should 53! using 2 cores to be executed in 0s:
   53! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 1s:
+x 454) Factorial check speed difference based on cores used  should 54! using 2 cores to be executed in 0s:
   54! using 2 cores | Expected 0 but got 195000.0000000
   in ./performance_check.hpp:27
 
-x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 1s:
+x 455) Factorial check speed difference based on cores used  should 55! using 2 cores to be executed in 0s:
   55! using 2 cores | Expected 0 but got 189000.0000000
   in ./performance_check.hpp:27
 
-x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 1s:
+x 456) Factorial check speed difference based on cores used  should 56! using 2 cores to be executed in 0s:
   56! using 2 cores | Expected 0 but got 214000.0000000
   in ./performance_check.hpp:27
 
-x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 1s:
+x 457) Factorial check speed difference based on cores used  should 57! using 2 cores to be executed in 0s:
   57! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 1s:
+x 458) Factorial check speed difference based on cores used  should 58! using 2 cores to be executed in 0s:
   58! using 2 cores | Expected 0 but got 294000.0000000
   in ./performance_check.hpp:27
 
-x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 1s:
+x 459) Factorial check speed difference based on cores used  should 59! using 2 cores to be executed in 0s:
   59! using 2 cores | Expected 0 but got 253000.0000000
   in ./performance_check.hpp:27
 
-x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 1s:
+x 460) Factorial check speed difference based on cores used  should 60! using 2 cores to be executed in 0s:
   60! using 2 cores | Expected 0 but got 226000.0000000
   in ./performance_check.hpp:27
 
-x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 1s:
+x 461) Factorial check speed difference based on cores used  should 61! using 2 cores to be executed in 0s:
   61! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 1s:
+x 462) Factorial check speed difference based on cores used  should 62! using 2 cores to be executed in 0s:
   62! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 1s:
+x 463) Factorial check speed difference based on cores used  should 63! using 2 cores to be executed in 0s:
   63! using 2 cores | Expected 0 but got 202000.0000000
   in ./performance_check.hpp:27
 
-x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 1s:
+x 464) Factorial check speed difference based on cores used  should 64! using 2 cores to be executed in 0s:
   64! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 1s:
+x 465) Factorial check speed difference based on cores used  should 65! using 2 cores to be executed in 0s:
   65! using 2 cores | Expected 0 but got 210000.0000000
   in ./performance_check.hpp:27
 
-x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 1s:
+x 466) Factorial check speed difference based on cores used  should 66! using 2 cores to be executed in 0s:
   66! using 2 cores | Expected 0 but got 201000.0000000
   in ./performance_check.hpp:27
 
-x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 1s:
+x 467) Factorial check speed difference based on cores used  should 67! using 2 cores to be executed in 0s:
   67! using 2 cores | Expected 0 but got 207000.0000000
   in ./performance_check.hpp:27
 
-x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 1s:
+x 468) Factorial check speed difference based on cores used  should 68! using 2 cores to be executed in 0s:
   68! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 1s:
+x 469) Factorial check speed difference based on cores used  should 69! using 2 cores to be executed in 0s:
   69! using 2 cores | Expected 0 but got 219000.0000000
   in ./performance_check.hpp:27
 
-x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 1s:
+x 470) Factorial check speed difference based on cores used  should 70! using 2 cores to be executed in 0s:
   70! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 1s:
+x 471) Factorial check speed difference based on cores used  should 71! using 2 cores to be executed in 0s:
   71! using 2 cores | Expected 0 but got 228000.0000000
   in ./performance_check.hpp:27
 
-x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 1s:
+x 472) Factorial check speed difference based on cores used  should 72! using 2 cores to be executed in 0s:
   72! using 2 cores | Expected 0 but got 239000.0000000
   in ./performance_check.hpp:27
 
-x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 1s:
+x 473) Factorial check speed difference based on cores used  should 73! using 2 cores to be executed in 0s:
   73! using 2 cores | Expected 0 but got 205000.0000000
   in ./performance_check.hpp:27
 
-x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 1s:
+x 474) Factorial check speed difference based on cores used  should 74! using 2 cores to be executed in 0s:
   74! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 1s:
+x 475) Factorial check speed difference based on cores used  should 75! using 2 cores to be executed in 0s:
   75! using 2 cores | Expected 0 but got 204000.0000000
   in ./performance_check.hpp:27
 
-x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 1s:
+x 476) Factorial check speed difference based on cores used  should 76! using 2 cores to be executed in 0s:
   76! using 2 cores | Expected 0 but got 234000.0000000
   in ./performance_check.hpp:27
 
-x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 1s:
+x 477) Factorial check speed difference based on cores used  should 77! using 2 cores to be executed in 0s:
   77! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 1s:
+x 478) Factorial check speed difference based on cores used  should 78! using 2 cores to be executed in 0s:
   78! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 1s:
+x 479) Factorial check speed difference based on cores used  should 79! using 2 cores to be executed in 0s:
   79! using 2 cores | Expected 0 but got 229000.0000000
   in ./performance_check.hpp:27
 
-x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 1s:
+x 480) Factorial check speed difference based on cores used  should 80! using 2 cores to be executed in 0s:
   80! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 1s:
+x 481) Factorial check speed difference based on cores used  should 81! using 2 cores to be executed in 0s:
   81! using 2 cores | Expected 0 but got 194000.0000000
   in ./performance_check.hpp:27
 
-x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 1s:
+x 482) Factorial check speed difference based on cores used  should 82! using 2 cores to be executed in 0s:
   82! using 2 cores | Expected 0 but got 211000.0000000
   in ./performance_check.hpp:27
 
-x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 1s:
+x 483) Factorial check speed difference based on cores used  should 83! using 2 cores to be executed in 0s:
   83! using 2 cores | Expected 0 but got 216000.0000000
   in ./performance_check.hpp:27
 
-x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 1s:
+x 484) Factorial check speed difference based on cores used  should 84! using 2 cores to be executed in 0s:
   84! using 2 cores | Expected 0 but got 193000.0000000
   in ./performance_check.hpp:27
 
-x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 1s:
+x 485) Factorial check speed difference based on cores used  should 85! using 2 cores to be executed in 0s:
   85! using 2 cores | Expected 0 but got 227000.0000000
   in ./performance_check.hpp:27
 
-x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 1s:
+x 486) Factorial check speed difference based on cores used  should 86! using 2 cores to be executed in 0s:
   86! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 1s:
+x 487) Factorial check speed difference based on cores used  should 87! using 2 cores to be executed in 0s:
   87! using 2 cores | Expected 0 but got 243000.0000000
   in ./performance_check.hpp:27
 
-x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 1s:
+x 488) Factorial check speed difference based on cores used  should 88! using 2 cores to be executed in 0s:
   88! using 2 cores | Expected 0 but got 235000.0000000
   in ./performance_check.hpp:27
 
-x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 1s:
+x 489) Factorial check speed difference based on cores used  should 89! using 2 cores to be executed in 0s:
   89! using 2 cores | Expected 0 but got 504000.0000000
   in ./performance_check.hpp:27
 
-x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 1s:
+x 490) Factorial check speed difference based on cores used  should 90! using 2 cores to be executed in 0s:
   90! using 2 cores | Expected 0 but got 255000.0000000
   in ./performance_check.hpp:27
 
-x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 1s:
+x 491) Factorial check speed difference based on cores used  should 91! using 2 cores to be executed in 0s:
   91! using 2 cores | Expected 0 but got 240000.0000000
   in ./performance_check.hpp:27
 
-x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 1s:
+x 492) Factorial check speed difference based on cores used  should 92! using 2 cores to be executed in 0s:
   92! using 2 cores | Expected 0 but got 245000.0000000
   in ./performance_check.hpp:27
 
-x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 1s:
+x 493) Factorial check speed difference based on cores used  should 93! using 2 cores to be executed in 0s:
   93! using 2 cores | Expected 0 but got 252000.0000000
   in ./performance_check.hpp:27
 
-x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 1s:
+x 494) Factorial check speed difference based on cores used  should 94! using 2 cores to be executed in 0s:
   94! using 2 cores | Expected 0 but got 309000.0000000
   in ./performance_check.hpp:27
 
-x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 1s:
+x 495) Factorial check speed difference based on cores used  should 95! using 2 cores to be executed in 0s:
   95! using 2 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 1s:
+x 496) Factorial check speed difference based on cores used  should 96! using 2 cores to be executed in 0s:
   96! using 2 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 1s:
+x 497) Factorial check speed difference based on cores used  should 97! using 2 cores to be executed in 0s:
   97! using 2 cores | Expected 0 but got 221000.0000000
   in ./performance_check.hpp:27
 
-x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 1s:
+x 498) Factorial check speed difference based on cores used  should 98! using 2 cores to be executed in 0s:
   98! using 2 cores | Expected 0 but got 276000.0000000
   in ./performance_check.hpp:27
 
-x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 1s:
+x 499) Factorial check speed difference based on cores used  should 99! using 2 cores to be executed in 0s:
   99! using 2 cores | Expected 0 but got 260000.0000000
   in ./performance_check.hpp:27
 
-x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 1s:
+x 500) Factorial check speed difference based on cores used  should 100! using 2 cores to be executed in 0s:
   100! using 2 cores | Expected 0 but got 266000.0000000
   in ./performance_check.hpp:27
 
-x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 1s:
+x 501) Factorial check speed difference based on cores used  should 1! using 4 cores to be executed in 0s:
   1! using 4 cores | Expected 0 but got 389000.0000000
   in ./performance_check.hpp:27
 
-x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 1s:
+x 502) Factorial check speed difference based on cores used  should 2! using 4 cores to be executed in 0s:
   2! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 1s:
+x 503) Factorial check speed difference based on cores used  should 3! using 4 cores to be executed in 0s:
   3! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 1s:
+x 504) Factorial check speed difference based on cores used  should 4! using 4 cores to be executed in 0s:
   4! using 4 cores | Expected 0 but got 420000.0000000
   in ./performance_check.hpp:27
 
-x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 1s:
+x 505) Factorial check speed difference based on cores used  should 5! using 4 cores to be executed in 0s:
   5! using 4 cores | Expected 0 but got 362000.0000000
   in ./performance_check.hpp:27
 
-x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 1s:
+x 506) Factorial check speed difference based on cores used  should 6! using 4 cores to be executed in 0s:
   6! using 4 cores | Expected 0 but got 350000.0000000
   in ./performance_check.hpp:27
 
-x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 1s:
+x 507) Factorial check speed difference based on cores used  should 7! using 4 cores to be executed in 0s:
   7! using 4 cores | Expected 0 but got 440000.0000000
   in ./performance_check.hpp:27
 
-x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 1s:
+x 508) Factorial check speed difference based on cores used  should 8! using 4 cores to be executed in 0s:
   8! using 4 cores | Expected 0 but got 390000.0000000
   in ./performance_check.hpp:27
 
-x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 1s:
+x 509) Factorial check speed difference based on cores used  should 9! using 4 cores to be executed in 0s:
   9! using 4 cores | Expected 0 but got 413000.0000000
   in ./performance_check.hpp:27
 
-x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 1s:
+x 510) Factorial check speed difference based on cores used  should 10! using 4 cores to be executed in 0s:
   10! using 4 cores | Expected 0 but got 468000.0000000
   in ./performance_check.hpp:27
 
-x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 1s:
+x 511) Factorial check speed difference based on cores used  should 11! using 4 cores to be executed in 0s:
   11! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 1s:
+x 512) Factorial check speed difference based on cores used  should 12! using 4 cores to be executed in 0s:
   12! using 4 cores | Expected 0 but got 363000.0000000
   in ./performance_check.hpp:27
 
-x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 1s:
+x 513) Factorial check speed difference based on cores used  should 13! using 4 cores to be executed in 0s:
   13! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 1s:
+x 514) Factorial check speed difference based on cores used  should 14! using 4 cores to be executed in 0s:
   14! using 4 cores | Expected 0 but got 395000.0000000
   in ./performance_check.hpp:27
 
-x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 1s:
+x 515) Factorial check speed difference based on cores used  should 15! using 4 cores to be executed in 0s:
   15! using 4 cores | Expected 0 but got 401000.0000000
   in ./performance_check.hpp:27
 
-x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 1s:
+x 516) Factorial check speed difference based on cores used  should 16! using 4 cores to be executed in 0s:
   16! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 1s:
+x 517) Factorial check speed difference based on cores used  should 17! using 4 cores to be executed in 0s:
   17! using 4 cores | Expected 0 but got 495000.0000000
   in ./performance_check.hpp:27
 
-x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 1s:
+x 518) Factorial check speed difference based on cores used  should 18! using 4 cores to be executed in 0s:
   18! using 4 cores | Expected 0 but got 336000.0000000
   in ./performance_check.hpp:27
 
-x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 1s:
+x 519) Factorial check speed difference based on cores used  should 19! using 4 cores to be executed in 0s:
   19! using 4 cores | Expected 0 but got 397000.0000000
   in ./performance_check.hpp:27
 
-x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 1s:
+x 520) Factorial check speed difference based on cores used  should 20! using 4 cores to be executed in 0s:
   20! using 4 cores | Expected 0 but got 359000.0000000
   in ./performance_check.hpp:27
 
-x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 1s:
+x 521) Factorial check speed difference based on cores used  should 21! using 4 cores to be executed in 0s:
   21! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
-x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 1s:
+x 522) Factorial check speed difference based on cores used  should 22! using 4 cores to be executed in 0s:
   22! using 4 cores | Expected 0 but got 375000.0000000
   in ./performance_check.hpp:27
 
-x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 1s:
+x 523) Factorial check speed difference based on cores used  should 23! using 4 cores to be executed in 0s:
   23! using 4 cores | Expected 0 but got 524000.0000000
   in ./performance_check.hpp:27
 
-x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 1s:
+x 524) Factorial check speed difference based on cores used  should 24! using 4 cores to be executed in 0s:
   24! using 4 cores | Expected 0 but got 322000.0000000
   in ./performance_check.hpp:27
 
-x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 1s:
+x 525) Factorial check speed difference based on cores used  should 25! using 4 cores to be executed in 0s:
   25! using 4 cores | Expected 0 but got 653000.0000000
   in ./performance_check.hpp:27
 
-x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 1s:
+x 526) Factorial check speed difference based on cores used  should 26! using 4 cores to be executed in 0s:
   26! using 4 cores | Expected 0 but got 470000.0000000
   in ./performance_check.hpp:27
 
-x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 1s:
+x 527) Factorial check speed difference based on cores used  should 27! using 4 cores to be executed in 0s:
   27! using 4 cores | Expected 0 but got 427000.0000000
   in ./performance_check.hpp:27
 
-x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 1s:
+x 528) Factorial check speed difference based on cores used  should 28! using 4 cores to be executed in 0s:
   28! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 1s:
+x 529) Factorial check speed difference based on cores used  should 29! using 4 cores to be executed in 0s:
   29! using 4 cores | Expected 0 but got 319000.0000000
   in ./performance_check.hpp:27
 
-x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 1s:
+x 530) Factorial check speed difference based on cores used  should 30! using 4 cores to be executed in 0s:
   30! using 4 cores | Expected 0 but got 314000.0000000
   in ./performance_check.hpp:27
 
-x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 1s:
+x 531) Factorial check speed difference based on cores used  should 31! using 4 cores to be executed in 0s:
   31! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 1s:
+x 532) Factorial check speed difference based on cores used  should 32! using 4 cores to be executed in 0s:
   32! using 4 cores | Expected 0 but got 357000.0000000
   in ./performance_check.hpp:27
 
-x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 1s:
+x 533) Factorial check speed difference based on cores used  should 33! using 4 cores to be executed in 0s:
   33! using 4 cores | Expected 0 but got 332000.0000000
   in ./performance_check.hpp:27
 
-x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 1s:
+x 534) Factorial check speed difference based on cores used  should 34! using 4 cores to be executed in 0s:
   34! using 4 cores | Expected 0 but got 286000.0000000
   in ./performance_check.hpp:27
 
-x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 1s:
+x 535) Factorial check speed difference based on cores used  should 35! using 4 cores to be executed in 0s:
   35! using 4 cores | Expected 0 but got 329000.0000000
   in ./performance_check.hpp:27
 
-x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 1s:
+x 536) Factorial check speed difference based on cores used  should 36! using 4 cores to be executed in 0s:
   36! using 4 cores | Expected 0 but got 274000.0000000
   in ./performance_check.hpp:27
 
-x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 1s:
+x 537) Factorial check speed difference based on cores used  should 37! using 4 cores to be executed in 0s:
   37! using 4 cores | Expected 0 but got 380000.0000000
   in ./performance_check.hpp:27
 
-x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 1s:
+x 538) Factorial check speed difference based on cores used  should 38! using 4 cores to be executed in 0s:
   38! using 4 cores | Expected 0 but got 367000.0000000
   in ./performance_check.hpp:27
 
-x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 1s:
+x 539) Factorial check speed difference based on cores used  should 39! using 4 cores to be executed in 0s:
   39! using 4 cores | Expected 0 but got 311000.0000000
   in ./performance_check.hpp:27
 
-x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 1s:
+x 540) Factorial check speed difference based on cores used  should 40! using 4 cores to be executed in 0s:
   40! using 4 cores | Expected 0 but got 406000.0000000
   in ./performance_check.hpp:27
 
-x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 1s:
+x 541) Factorial check speed difference based on cores used  should 41! using 4 cores to be executed in 0s:
   41! using 4 cores | Expected 0 but got 356000.0000000
   in ./performance_check.hpp:27
 
-x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 1s:
+x 542) Factorial check speed difference based on cores used  should 42! using 4 cores to be executed in 0s:
   42! using 4 cores | Expected 0 but got 313000.0000000
   in ./performance_check.hpp:27
 
-x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 1s:
+x 543) Factorial check speed difference based on cores used  should 43! using 4 cores to be executed in 0s:
   43! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 1s:
+x 544) Factorial check speed difference based on cores used  should 44! using 4 cores to be executed in 0s:
   44! using 4 cores | Expected 0 but got 438000.0000000
   in ./performance_check.hpp:27
 
-x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 1s:
+x 545) Factorial check speed difference based on cores used  should 45! using 4 cores to be executed in 0s:
   45! using 4 cores | Expected 0 but got 354000.0000000
   in ./performance_check.hpp:27
 
-x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 1s:
+x 546) Factorial check speed difference based on cores used  should 46! using 4 cores to be executed in 0s:
   46! using 4 cores | Expected 0 but got 341000.0000000
   in ./performance_check.hpp:27
 
-x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 1s:
+x 547) Factorial check speed difference based on cores used  should 47! using 4 cores to be executed in 0s:
   47! using 4 cores | Expected 0 but got 358000.0000000
   in ./performance_check.hpp:27
 
-x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 1s:
+x 548) Factorial check speed difference based on cores used  should 48! using 4 cores to be executed in 0s:
   48! using 4 cores | Expected 0 but got 398000.0000000
   in ./performance_check.hpp:27
 
-x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 1s:
+x 549) Factorial check speed difference based on cores used  should 49! using 4 cores to be executed in 0s:
   49! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 1s:
+x 550) Factorial check speed difference based on cores used  should 50! using 4 cores to be executed in 0s:
   50! using 4 cores | Expected 0 but got 476000.0000000
   in ./performance_check.hpp:27
 
-x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 1s:
+x 551) Factorial check speed difference based on cores used  should 51! using 4 cores to be executed in 0s:
   51! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 1s:
+x 552) Factorial check speed difference based on cores used  should 52! using 4 cores to be executed in 0s:
   52! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 1s:
+x 553) Factorial check speed difference based on cores used  should 53! using 4 cores to be executed in 0s:
   53! using 4 cores | Expected 0 but got 335000.0000000
   in ./performance_check.hpp:27
 
-x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 1s:
+x 554) Factorial check speed difference based on cores used  should 54! using 4 cores to be executed in 0s:
   54! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 1s:
+x 555) Factorial check speed difference based on cores used  should 55! using 4 cores to be executed in 0s:
   55! using 4 cores | Expected 0 but got 384000.0000000
   in ./performance_check.hpp:27
 
-x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 1s:
+x 556) Factorial check speed difference based on cores used  should 56! using 4 cores to be executed in 0s:
   56! using 4 cores | Expected 0 but got 280000.0000000
   in ./performance_check.hpp:27
 
-x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 1s:
+x 557) Factorial check speed difference based on cores used  should 57! using 4 cores to be executed in 0s:
   57! using 4 cores | Expected 0 but got 400000.0000000
   in ./performance_check.hpp:27
 
-x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 1s:
+x 558) Factorial check speed difference based on cores used  should 58! using 4 cores to be executed in 0s:
   58! using 4 cores | Expected 0 but got 350000.0000000
   in ./performance_check.hpp:27
 
-x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 1s:
+x 559) Factorial check speed difference based on cores used  should 59! using 4 cores to be executed in 0s:
   59! using 4 cores | Expected 0 but got 523000.0000000
   in ./performance_check.hpp:27
 
-x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 1s:
+x 560) Factorial check speed difference based on cores used  should 60! using 4 cores to be executed in 0s:
   60! using 4 cores | Expected 0 but got 370000.0000000
   in ./performance_check.hpp:27
 
-x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 1s:
+x 561) Factorial check speed difference based on cores used  should 61! using 4 cores to be executed in 0s:
   61! using 4 cores | Expected 0 but got 398000.0000000
   in ./performance_check.hpp:27
 
-x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 1s:
+x 562) Factorial check speed difference based on cores used  should 62! using 4 cores to be executed in 0s:
   62! using 4 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 1s:
+x 563) Factorial check speed difference based on cores used  should 63! using 4 cores to be executed in 0s:
   63! using 4 cores | Expected 0 but got 387000.0000000
   in ./performance_check.hpp:27
 
-x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 1s:
+x 564) Factorial check speed difference based on cores used  should 64! using 4 cores to be executed in 0s:
   64! using 4 cores | Expected 0 but got 323000.0000000
   in ./performance_check.hpp:27
 
-x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 1s:
+x 565) Factorial check speed difference based on cores used  should 65! using 4 cores to be executed in 0s:
   65! using 4 cores | Expected 0 but got 306000.0000000
   in ./performance_check.hpp:27
 
-x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 1s:
+x 566) Factorial check speed difference based on cores used  should 66! using 4 cores to be executed in 0s:
   66! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 1s:
+x 567) Factorial check speed difference based on cores used  should 67! using 4 cores to be executed in 0s:
   67! using 4 cores | Expected 0 but got 340000.0000000
   in ./performance_check.hpp:27
 
-x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 1s:
+x 568) Factorial check speed difference based on cores used  should 68! using 4 cores to be executed in 0s:
   68! using 4 cores | Expected 0 but got 295000.0000000
   in ./performance_check.hpp:27
 
-x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 1s:
+x 569) Factorial check speed difference based on cores used  should 69! using 4 cores to be executed in 0s:
   69! using 4 cores | Expected 0 but got 426000.0000000
   in ./performance_check.hpp:27
 
-x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 1s:
+x 570) Factorial check speed difference based on cores used  should 70! using 4 cores to be executed in 0s:
   70! using 4 cores | Expected 0 but got 344000.0000000
   in ./performance_check.hpp:27
 
-x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 1s:
+x 571) Factorial check speed difference based on cores used  should 71! using 4 cores to be executed in 0s:
   71! using 4 cores | Expected 0 but got 361000.0000000
   in ./performance_check.hpp:27
 
-x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 1s:
+x 572) Factorial check speed difference based on cores used  should 72! using 4 cores to be executed in 0s:
   72! using 4 cores | Expected 0 but got 347000.0000000
   in ./performance_check.hpp:27
 
-x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 1s:
+x 573) Factorial check speed difference based on cores used  should 73! using 4 cores to be executed in 0s:
   73! using 4 cores | Expected 0 but got 310000.0000000
   in ./performance_check.hpp:27
 
-x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 1s:
+x 574) Factorial check speed difference based on cores used  should 74! using 4 cores to be executed in 0s:
   74! using 4 cores | Expected 0 but got 377000.0000000
   in ./performance_check.hpp:27
 
-x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 1s:
+x 575) Factorial check speed difference based on cores used  should 75! using 4 cores to be executed in 0s:
   75! using 4 cores | Expected 0 but got 346000.0000000
   in ./performance_check.hpp:27
 
-x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 1s:
+x 576) Factorial check speed difference based on cores used  should 76! using 4 cores to be executed in 0s:
   76! using 4 cores | Expected 0 but got 313000.0000000
   in ./performance_check.hpp:27
 
-x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 1s:
+x 577) Factorial check speed difference based on cores used  should 77! using 4 cores to be executed in 0s:
   77! using 4 cores | Expected 0 but got 321000.0000000
   in ./performance_check.hpp:27
 
-x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 1s:
+x 578) Factorial check speed difference based on cores used  should 78! using 4 cores to be executed in 0s:
   78! using 4 cores | Expected 0 but got 364000.0000000
   in ./performance_check.hpp:27
 
-x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 1s:
+x 579) Factorial check speed difference based on cores used  should 79! using 4 cores to be executed in 0s:
   79! using 4 cores | Expected 0 but got 355000.0000000
   in ./performance_check.hpp:27
 
-x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 1s:
+x 580) Factorial check speed difference based on cores used  should 80! using 4 cores to be executed in 0s:
   80! using 4 cores | Expected 0 but got 348000.0000000
   in ./performance_check.hpp:27
 
-x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 1s:
+x 581) Factorial check speed difference based on cores used  should 81! using 4 cores to be executed in 0s:
   81! using 4 cores | Expected 0 but got 317000.0000000
   in ./performance_check.hpp:27
 
-x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 1s:
+x 582) Factorial check speed difference based on cores used  should 82! using 4 cores to be executed in 0s:
   82! using 4 cores | Expected 0 but got 378000.0000000
   in ./performance_check.hpp:27
 
-x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 1s:
+x 583) Factorial check speed difference based on cores used  should 83! using 4 cores to be executed in 0s:
   83! using 4 cores | Expected 0 but got 334000.0000000
   in ./performance_check.hpp:27
 
-x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 1s:
+x 584) Factorial check speed difference based on cores used  should 84! using 4 cores to be executed in 0s:
   84! using 4 cores | Expected 0 but got 423000.0000000
   in ./performance_check.hpp:27
 
-x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 1s:
+x 585) Factorial check speed difference based on cores used  should 85! using 4 cores to be executed in 0s:
   85! using 4 cores | Expected 0 but got 353000.0000000
   in ./performance_check.hpp:27
 
-x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 1s:
+x 586) Factorial check speed difference based on cores used  should 86! using 4 cores to be executed in 0s:
   86! using 4 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 1s:
+x 587) Factorial check speed difference based on cores used  should 87! using 4 cores to be executed in 0s:
   87! using 4 cores | Expected 0 but got 422000.0000000
   in ./performance_check.hpp:27
 
-x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 1s:
+x 588) Factorial check speed difference based on cores used  should 88! using 4 cores to be executed in 0s:
   88! using 4 cores | Expected 0 but got 282000.0000000
   in ./performance_check.hpp:27
 
-x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 1s:
+x 589) Factorial check speed difference based on cores used  should 89! using 4 cores to be executed in 0s:
   89! using 4 cores | Expected 0 but got 384000.0000000
   in ./performance_check.hpp:27
 
-x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 1s:
+x 590) Factorial check speed difference based on cores used  should 90! using 4 cores to be executed in 0s:
   90! using 4 cores | Expected 0 but got 291000.0000000
   in ./performance_check.hpp:27
 
-x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 1s:
+x 591) Factorial check speed difference based on cores used  should 91! using 4 cores to be executed in 0s:
   91! using 4 cores | Expected 0 but got 388000.0000000
   in ./performance_check.hpp:27
 
-x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 1s:
+x 592) Factorial check speed difference based on cores used  should 92! using 4 cores to be executed in 0s:
   92! using 4 cores | Expected 0 but got 303000.0000000
   in ./performance_check.hpp:27
 
-x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 1s:
+x 593) Factorial check speed difference based on cores used  should 93! using 4 cores to be executed in 0s:
   93! using 4 cores | Expected 0 but got 386000.0000000
   in ./performance_check.hpp:27
 
-x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 1s:
+x 594) Factorial check speed difference based on cores used  should 94! using 4 cores to be executed in 0s:
   94! using 4 cores | Expected 0 but got 292000.0000000
   in ./performance_check.hpp:27
 
-x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 1s:
+x 595) Factorial check speed difference based on cores used  should 95! using 4 cores to be executed in 0s:
   95! using 4 cores | Expected 0 but got 311000.0000000
   in ./performance_check.hpp:27
 
-x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 1s:
+x 596) Factorial check speed difference based on cores used  should 96! using 4 cores to be executed in 0s:
   96! using 4 cores | Expected 0 but got 407000.0000000
   in ./performance_check.hpp:27
 
-x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 1s:
+x 597) Factorial check speed difference based on cores used  should 97! using 4 cores to be executed in 0s:
   97! using 4 cores | Expected 0 but got 322000.0000000
   in ./performance_check.hpp:27
 
-x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 1s:
+x 598) Factorial check speed difference based on cores used  should 98! using 4 cores to be executed in 0s:
   98! using 4 cores | Expected 0 but got 553000.0000000
   in ./performance_check.hpp:27
 
-x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 1s:
+x 599) Factorial check speed difference based on cores used  should 99! using 4 cores to be executed in 0s:
   99! using 4 cores | Expected 0 but got 524000.0000000
   in ./performance_check.hpp:27
 
-x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 1s:
+x 600) Factorial check speed difference based on cores used  should 100! using 4 cores to be executed in 0s:
   100! using 4 cores | Expected 0 but got 415000.0000000
   in ./performance_check.hpp:27
 ```
