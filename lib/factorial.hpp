@@ -45,7 +45,7 @@ private:
 public:
     friend BigUInt factorial(unsigned int, unsigned int);
     
-    _AccumulatedResult(std::shared_ptr<std::mutex> _accumulating, size_t _processes) : accumulating(_accumulating), units(_processes) {
+    _AccumulatedResult(std::shared_ptr<std::mutex> _accumulating, size_t _processes) : units(_processes), accumulating(_accumulating) {
         result = 1;
     }
 };
@@ -71,7 +71,7 @@ BigUInt multiply (unsigned int start, unsigned int step, unsigned int N) {
  * @param processes The number of parallel processes that the function will run on 
  * @return N! aka factorial of N
 */
-BigUInt factorial(unsigned int N, unsigned int processes) {
+BigUInt factorial(const unsigned int N, unsigned int processes) {
     if (processes == 1) {
         BigUInt result (1);
         for (unsigned long long i = 2 ; i <= N ; i ++) {
@@ -84,6 +84,8 @@ BigUInt factorial(unsigned int N, unsigned int processes) {
         accumulating->lock(); // locking the processing of the factorial
 
         std::shared_ptr<_AccumulatedResult> accumulated_result = std::make_shared<_AccumulatedResult>(accumulating, processes);
+
+        //processes = (processes < N) ? processes : N;
 
         for (unsigned int i = 1 ; i <= processes ; i ++) {
             std::thread([accumulated_result, i, &processes, &N] {

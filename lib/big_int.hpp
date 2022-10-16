@@ -1,8 +1,8 @@
 #ifndef __BIG_INTEGER_HPP__
 #define __BIG_INTEGER_HPP__
 
-#include <iostream> // std::ostream
-#include <iomanip> // std::setw, std::setfill
+#include <stdio.h> // sprintf
+#include <string> // std::string
 
 /**
  * @brief Big Unsigned Integer class with a limit of 10^288.
@@ -17,6 +17,12 @@ public:
      * @details Number of 10-based digits in a digit in this Big Unsigned Integer implementation.
      */
     static constexpr unsigned int digit_length = 9;
+    
+    /**
+     * @brief sprintf format string for a digit.
+     * @details sprintf format string for a digit in this Big Unsigned Integer implementation.
+     */
+    static constexpr std::string_view digit_sprintf = "%09d";
 
     /**
      * @brief Numberic base.
@@ -86,9 +92,9 @@ public:
     BigUInt& operator *= (const BigUInt&);
 
     /**
-     * @brief Prints the number to std::ostream.
+     * @brief Converts the nuber into string.
      */
-    friend std::ostream& operator << (std::ostream&, const BigUInt&);
+    std::string to_string () const;
 };
 
 BigUInt::BigUInt() {
@@ -139,16 +145,17 @@ BigUInt& BigUInt::operator *= (const BigUInt& value) {
     long_digit_t product = 1;
     for (size_t i = 0 ; i < this->number_of_digits ; i ++) {
         if (value.digits[i] == 0) continue;
-        BigUInt row (0);
-        for (size_t j = 0 ; j < this->number_of_digits ; j ++)
-            row.digits[j] = this->digits[j];
-        row *= value.digits[i];
-        for (size_t j = this->number_of_digits ; j >= 0 ; j --) {
-            row.digits[j + i] = row.digits[j];
-            if (j == 0) break;
+        for (size_t j = 0 ; j < this->number_of_digits ; j ++) {
+            long_digit_t current_digit = result.digits[i + j];
+            long_digit_t left_current_digit = this->digits[j];
+            long_digit_t right_current_digit = value.digits[i];
+            product = current_digit + left_current_digit * right_current_digit;
+            if (product >= base) {
+                result.digits[i + j + 1] += product / base;
+                product %= base;
+            }
+            result.digits[i + j] = product;
         }
-        for (size_t j = 0 ; j < i ; j ++) row.digits [j] = 0;
-        result += row;
     }
     for (size_t i = 0 ; i < this->number_of_digits ; i ++) {
         this->digits[i] = result.digits[i];
@@ -156,16 +163,17 @@ BigUInt& BigUInt::operator *= (const BigUInt& value) {
     return *this;
 }
 
-std::ostream& operator << (std::ostream& out, const BigUInt& value) {
+std::string BigUInt::to_string () const {
+    char answer[number_of_reserved_digits * digit_length];
     size_t i;
-    for (i = value.number_of_digits - 1 ; value.digits[i] == 0 && i > 0 ; i --) {}
-    out << value.digits[i];
+    for (i = number_of_digits - 1 ; this->digits[i] == 0 && i > 0 ; i --) {}
+    int len = sprintf(answer, "%u", this->digits[i]);
     if (i != 0)
         for (i -- ; i >= 0 ; i --) {
-            out << std::setw(value.digit_length) << std::setfill('0') << value.digits[i];
+            len += sprintf(answer + len, digit_sprintf.data(), this->digits[i]);
             if (i == 0) break; 
         }
-    return out;
+    return std::string(answer);
 }
 
 #endif
