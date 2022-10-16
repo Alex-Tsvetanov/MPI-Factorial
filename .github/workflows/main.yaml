@@ -42,7 +42,7 @@ jobs:
           for optimization in -O -O1 -O2 -O3 -Ofast -Og -Os; do
             for processes in `seq 1 8`; do
               for i in `seq 100 -1 1` ; do 
-                ${{ matrix.cxx }} main.cpp -o main.exe $optimization -std=c++20 -pthread -lpthread
+                ${{ matrix.cxx }} main.cpp lib/big_int.cpp -o main.exe $optimization -std=c++20 -pthread -lpthread
                 { time ./main.exe -np $processes -n $i >> report/output-${{ matrix.os }}-$processes$optimization.txt; } 2>> report/report-${{ matrix.os }}-$processes$optimization.txt;
               done
             done
