@@ -1,6 +1,6 @@
 #ifndef __BIG_INTEGER_FACTORIAL_HPP__
 #define __BIG_INTEGER_FACTORIAL_HPP__
-#include "./big_int.hpp" // BigUInt
+#include "./BigUInt.hpp" // BigUInt
 #include <thread> // std::thread
 #include <future> // std::mutex
 #include <shared_mutex> // std::shared_mutex
@@ -19,7 +19,7 @@ private:
     /**
      * @brief Result of the multiplications.
     */
-    BigUInt result;
+    BigUInt::BigUInt result;
 
     /**
      * @brief Number of multipliers to be multiplied.
@@ -34,7 +34,7 @@ private:
     /**
      * @brief Upon new multiplier incoming, multiplying the result with it.
     */
-    void add(const BigUInt& thread_result) {
+    void add(const BigUInt::BigUInt& thread_result) {
         processing.lock();
         result *= thread_result;
         units --;
@@ -43,7 +43,7 @@ private:
     } 
 
 public:
-    friend BigUInt factorial(unsigned int, unsigned int);
+    friend BigUInt::BigUInt factorial(unsigned int, unsigned int);
     
     _AccumulatedResult(std::shared_ptr<std::mutex> _accumulating, size_t _processes) : units(_processes), accumulating(_accumulating) {
         result = 1;
@@ -57,8 +57,8 @@ public:
  * @param N The biggest number in the multiplication
  * @return product of all i where i >= start, i <= N, and i%step = start
 */
-BigUInt multiply (unsigned int start, unsigned int step, unsigned int N) {
-    BigUInt result (1);
+BigUInt::BigUInt multiply (unsigned int start, unsigned int step, unsigned int N) {
+    BigUInt::BigUInt result (1);
     for (unsigned int i = start ; i <= N ; i += step) {
         result *= i;
     }
@@ -71,9 +71,9 @@ BigUInt multiply (unsigned int start, unsigned int step, unsigned int N) {
  * @param processes The number of parallel processes that the function will run on 
  * @return N! aka factorial of N
 */
-BigUInt factorial(const unsigned int N, unsigned int processes) {
+BigUInt::BigUInt factorial(const unsigned int N, unsigned int processes) {
     if (processes == 1) {
-        BigUInt result (1);
+        BigUInt::BigUInt result (1);
         for (unsigned long long i = 2 ; i <= N ; i ++) {
             result *= i;
         }

@@ -1,0 +1,65 @@
+Factorial	Cores	Method	Real	User	Sys
+10!	1	MPI Standard factor separation	0:00.25	0.02	0.02
+10!	1	MPI Optimized factor separation	0:00.25	0.05	0.00
+10!	1	Multi-thread Optimized factor separation	0:00.00	0.00	0.00
+
+10!	2	MPI Standard factor separation	0:00.27	0.02	0.08
+10!	2	MPI Optimized factor separation	0:00.26	0.01	0.07
+10!	2	Multi-thread Optimized factor separation	0:00.00	0.00	0.00
+
+10!	4	MPI Standard factor separation	0:00.27	0.11	0.05
+10!	4	MPI Optimized factor separation	0:00.27	0.07	0.10
+10!	4	Multi-thread Optimized factor separation	0:00.00	0.00	0.00
+
+10!	8	MPI Standard factor separation	0:00.33	0.22	0.14
+10!	8	MPI Optimized factor separation	0:00.31	0.21	0.12
+10!	8	Multi-thread Optimized factor separation	0:00.00	0.00	0.01
+
+100!	1	MPI Standard factor separation	0:00.26	0.01	0.05
+100!	1	MPI Optimized factor separation	0:00.31	0.04	0.03
+100!	1	Multi-thread Optimized factor separation	0:00.01	0.00	0.01
+
+100!	2	MPI Standard factor separation	0:00.26	0.05	0.04
+100!	2	MPI Optimized factor separation	0:00.30	0.02	0.07
+100!	2	Multi-thread Optimized factor separation	0:00.00	0.00	0.00
+
+100!	4	MPI Standard factor separation	0:00.32	0.13	0.04
+100!	4	MPI Optimized factor separation	0:00.31	0.08	0.07
+100!	4	Multi-thread Optimized factor separation	0:00.00	0.01	0.00
+
+100!	8	MPI Standard factor separation	0:00.32	0.21	0.16
+100!	8	MPI Optimized factor separation	0:00.32	0.21	0.13
+100!	8	Multi-thread Optimized factor separation	0:00.01	0.00	0.02
+
+10000!	1	MPI Standard factor separation	0:01.26	0.99	0.01
+10000!	1	MPI Optimized factor separation	0:01.09	0.85	0.05
+10000!	1	Multi-thread Optimized factor separation	0:00.92	0.92	0.00
+
+10000!	2	MPI Standard factor separation	0:00.79	1.11	0.05
+10000!	2	MPI Optimized factor separation	0:00.77	1.08	0.03
+10000!	2	Multi-thread Optimized factor separation	0:00.49	0.95	0.00
+
+10000!	4	MPI Standard factor separation	0:00.61	1.34	0.06
+10000!	4	MPI Optimized factor separation	0:00.57	1.33	0.09
+10000!	4	Multi-thread Optimized factor separation	0:00.30	1.16	0.00
+
+10000!	8	MPI Standard factor separation	0:00.52	1.84	0.13
+10000!	8	MPI Optimized factor separation	0:00.52	1.86	0.08
+10000!	8	Multi-thread Optimized factor separation	0:00.22	1.64	0.01
+
+50000!	1	MPI Standard factor separation	0:06.01	5.79	0.03
+50000!	1	MPI Optimized factor separation	0:04.65	4.44	0.02
+50000!	1	Multi-thread Optimized factor separation	0:05.89	5.89	0.00
+
+50000!	2	MPI Standard factor separation	0:03.37	6.29	0.02
+50000!	2	MPI Optimized factor separation	0:03.25	5.95	0.04
+50000!	2	Multi-thread Optimized factor separation	0:03.20	6.10	0.00
+
+50000!	4	MPI Standard factor separation	0:02.24	7.82	0.09
+50000!	4	MPI Optimized factor separation	0:02.16	7.72	0.03
+50000!	4	Multi-thread Optimized factor separation	0:02.04	6.92	0.00
+
+50000!	8	MPI Standard factor separation	0:01.70	11.22	0.13
+50000!	8	MPI Optimized factor separation	0:01.60	10.53	0.10
+50000!	8	Multi-thread Optimized factor separation	0:01.42	8.02	0.00
+

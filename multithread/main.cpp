@@ -1,6 +1,6 @@
 #include <iostream> // std::cout
 #include <cstring> // strcmp
-#include "./lib/factorial.hpp"
+#include "../lib/factorial.hpp"
 
 /**
  * @brief main function of Factorial MPI
